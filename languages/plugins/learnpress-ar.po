@@ -1,0 +1,2860 @@
+# Translation of Plugins - LearnPress &#8211; WordPress LMS Plugin - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - LearnPress &#8211; WordPress LMS Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-04 12:00:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - LearnPress &#8211; WordPress LMS Plugin - Stable (latest release)\n"
+
+#: inc/admin/editor/class-lp-admin-editor-question.php:108
+#: inc/curds/class-lp-question-curd.php:46
+msgid "New Question"
+msgstr "سؤال جديد"
+
+#: inc/libraries/meta-box/inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr "أو"
+
+#: inc/libraries/meta-box/inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "تحديد الملفات"
+
+#: inc/libraries/meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr "لا يوجد عنوان"
+
+#: inc/libraries/meta-box/inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "إظهار"
+
+#: inc/libraries/meta-box/inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "تعديل"
+
+#: inc/libraries/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "إزالة"
+
+#: inc/libraries/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr "الملفات"
+
+#: inc/libraries/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr "الملف"
+
+#: inc/libraries/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ إضافة وسائط"
+
+#: inc/libraries/meta-box/inc/fields/key-value.php:135
+msgid "Value"
+msgstr "القيمة"
+
+#: inc/libraries/meta-box/inc/fields/key-value.php:134
+msgid "Key"
+msgstr "المفتاح"
+
+#: templates/content-lesson/block-content.php:17
+#: templates/single-course/content-protected.php:29
+msgid "This lesson has been locked"
+msgstr "تم إقفال هذا الدرس"
+
+#: inc/libraries/meta-box/inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "إفلت الملفات هنا للرفع"
+
+#: inc/libraries/meta-box/inc/fields/post.php:35
+msgid "Select a post"
+msgstr "تحديد مقال"
+
+#: inc/libraries/meta-box/inc/field.php:398
+msgid "+ Add more"
+msgstr "+ أضف المزيد"
+
+#: inc/libraries/meta-box/inc/fields/user.php:24
+msgid "Select an user"
+msgstr "تحديد مستخدم"
+
+#: inc/libraries/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "تحديد مصطلح"
+
+#: inc/libraries/meta-box/inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr "تحديد عنصر"
+
+#: inc/admin/views/tools/database/html-repair-database.php:12
+msgid "Repair Database"
+msgstr "إصلاح قاعدة البيانات"
+
+#: inc/user/class-lp-profile.php:348
+#: inc/admin/settings/class-lp-settings-profile.php:208
+#: inc/admin/settings/class-lp-settings-profile.php:229
+msgid "Avatar"
+msgstr "الصورة الشخصية"
+
+#: templates/profile/tabs/settings/avatar.php:58
+msgid "Upload"
+msgstr "رفع"
+
+#: inc/admin/views/addons/html-themes.php:39
+msgid "Other"
+msgstr "أخرى"
+
+#: inc/admin/lp-admin-functions.php:582
+#: inc/admin/views/addons/html-loop-theme.php:53
+msgid "View Demo"
+msgstr "عرض التجريبي"
+
+#: inc/widgets/popular-courses/popular-courses.php:58
+#: inc/widgets/recent-courses/recent-courses.php:58
+#: inc/widgets/featured-courses/featured-courses.php:57
+msgid "Show lesson"
+msgstr "إظهار الدرس"
+
+#: inc/widgets/popular-courses/popular-courses.php:52
+#: inc/widgets/recent-courses/recent-courses.php:52
+#: inc/widgets/featured-courses/featured-courses.php:51
+msgid "Show teacher"
+msgstr "إظهار المعلم"
+
+#: inc/widgets/course-filters/course-filters.php:30
+#: inc/widgets/course-filters/course-filters.php:40
+msgid "Or"
+msgstr "أو"
+
+#: inc/widgets/course-filters/course-filters.php:29
+#: inc/widgets/course-filters/course-filters.php:39
+msgid "And"
+msgstr "و"
+
+#: inc/admin/settings/class-lp-settings-profile.php:200
+msgid "Basic Information"
+msgstr "المعلومات الأساسية"
+
+#: inc/admin/views/addons/html-loop-theme.php:30
+msgid "$"
+msgstr "$"
+
+#: inc/widgets/popular-courses/popular-courses.php:90
+#: inc/widgets/recent-courses/recent-courses.php:90
+#: inc/widgets/featured-courses/featured-courses.php:89
+msgid "Show Price"
+msgstr "إظار السعر"
+
+#: inc/widgets/popular-courses/popular-courses.php:102
+#: inc/widgets/recent-courses/recent-courses.php:102
+#: inc/widgets/featured-courses/featured-courses.php:101
+msgid "Go to Courses"
+msgstr "الذهاب إلى الدورات"
+
+#: inc/user/class-lp-user-factory.php:364
+msgid "Every 3 Minutes"
+msgstr "كل 3 دقائق"
+
+#: inc/admin/sub-menus/class-lp-submenu-addons.php:57
+msgid "Search..."
+msgstr "البحث..."
+
+#: inc/admin/views/tools/html-template.php:38
+msgid "File"
+msgstr "ملف"
+
+#: inc/admin/sub-menus/class-lp-submenu-tools.php:21
+msgid "Database"
+msgstr "قاعدة البيانات"
+
+#: inc/admin/views/meta-boxes/order/details.php:72
+msgid "Customers"
+msgstr "العملاء"
+
+#: inc/emails/class-lp-email-updated-course.php:39
+msgid "Update course"
+msgstr "تحديث الدورة"
+
+#: inc/admin/views/tools/html-template.php:55
+msgid "Version"
+msgstr "الإصدار"
+
+#: inc/admin/class-lp-admin.php:632
+msgid "Profile Page"
+msgstr "صفحة الملف الشخصي"
+
+#: inc/admin/class-lp-admin-menu.php:69
+msgid "View Courses"
+msgstr "إظهار المواد"
+
+#: inc/custom-post-types/course.php:1038
+msgid "Youtube"
+msgstr "اليوتيوب"
+
+#: inc/custom-post-types/course.php:1039
+msgid "Vimeo"
+msgstr "فيمو"
+
+#: inc/custom-post-types/course.php:1035
+msgid "Chose video type"
+msgstr "اختر نوع الفيديو"
+
+#: inc/custom-post-types/course.php:1032
+msgid "Video Type"
+msgstr "نوع الفيديو"
+
+#: inc/custom-post-types/course.php:1020
+msgid "Course Video"
+msgstr "فيديو الدورة"
+
+#: inc/custom-post-types/course.php:1025
+msgid "Video ID"
+msgstr "معرف الفيديو"
+
+#: inc/admin/lp-admin-functions.php:333
+msgid "Minutes"
+msgstr "دقائق"
+
+#: inc/libraries/meta-box/inc/fields/select.php:92
+msgid "None"
+msgstr "لا شيء"
+
+#: inc/admin/views/statistics/orders.php:55
+msgid "Select a course category"
+msgstr "اختيار تصنيف الدورة"
+
+#: inc/admin/views/statistics/orders.php:51
+msgid "Select a course"
+msgstr "اختيار الدورة"
+
+#: templates/single-course/students.php:29
+msgid "%d students"
+msgstr "%d الطلاب"
+
+#: templates/single-course/students.php:29
+msgid "%d student"
+msgstr "%d الطالب"
+
+#: inc/custom-post-types/question.php:336 inc/custom-post-types/lesson.php:310
+#: inc/custom-post-types/quiz.php:381 inc/custom-post-types/course.php:939
+#: inc/custom-post-types/course.php:951 inc/custom-post-types/course.php:1296
+#: inc/custom-post-types/course.php:1303
+msgid "Author"
+msgstr "الكاتب"
+
+#: inc/custom-post-types/course.php:877
+msgid "Not set"
+msgstr "لم يتم الضبط"
+
+#: inc/custom-post-types/course.php:616
+msgid "Set course as featured."
+msgstr "تحديد الدورة كمميزة"
+
+#: templates/widgets/popular-courses/default.php:81
+#: templates/widgets/recent-courses/default.php:86
+#: templates/widgets/featured-courses/default.php:86
+msgid "%d lessons"
+msgstr "%d دروس"
+
+#: templates/widgets/popular-courses/default.php:81
+#: templates/widgets/recent-courses/default.php:86
+#: templates/widgets/featured-courses/default.php:86
+msgid "%d lesson"
+msgstr "%d درس"
+
+#: inc/class-lp-shortcodes.php:227
+msgid "Create new account"
+msgstr "أنشاء حساب جديد"
+
+#: inc/admin/views/statistics/orders.php:44
+msgid "Sale by"
+msgstr "البيع بواسطة "
+
+#: inc/admin/views/statistics/orders.php:48
+msgid "Course Category"
+msgstr "تصنيف الدورة"
+
+#: inc/class-lp-shortcodes.php:225
+msgid "Forgot password?"
+msgstr "هل نسيت كلمة المرور؟ "
+
+#: inc/custom-post-types/course.php:613
+msgid "Featured"
+msgstr "مميزة"
+
+#: templates/content-archive-course.php:74
+#: inc/admin/views/tools/course/html-course.php:53
+#: inc/abstracts/abstract-shortcode-courses.php:142
+msgid "No course found."
+msgstr "لم يتم العثور على دورة."
+
+#: inc/widgets/featured-courses/featured-courses.php:48
+msgid "Featured Courses"
+msgstr "الدورات المميزة"
+
+#: templates/content-quiz/progress.php:40
+#: templates/single-course/section/title.php:52
+msgid "%d/%d"
+msgstr "%d/%d"
+
+#: templates/profile/tabs/settings/basic-information.php:65
+msgid "Last Name"
+msgstr "الإسم الأخير"
+
+#: templates/profile/tabs/settings/basic-information.php:57
+msgid "First Name"
+msgstr "الإسم الأول"
+
+#: inc/widgets/recent-courses/recent-courses.php:49
+msgid "Recent Courses"
+msgstr "الدورات الأخيرة"
+
+#: inc/widgets/popular-courses/popular-courses.php:49
+msgid "Popular Courses"
+msgstr "الدورات الشعبية"
+
+#: templates/widgets/popular-courses/default.php:60
+#: templates/widgets/recent-courses/default.php:65
+#: templates/widgets/featured-courses/default.php:65
+msgid "..."
+msgstr "..."
+
+#: templates/search-form.php:29 inc/admin/views/tools/course/html-course.php:21
+#: inc/admin/views/tools/course/html-user.php:21
+msgid "Search"
+msgstr "البحث"
+
+#: templates/single-course/progress.php:56
+msgid "Course results"
+msgstr "نتائج الدورة"
+
+#: templates/profile/tabs/settings/change-password.php:49
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+#: templates/profile/tabs/settings/change-password.php:43
+msgid "Old password"
+msgstr "كلمة المرور القديمة"
+
+#: inc/admin/settings/class-lp-settings-profile.php:216
+msgid "Change Password"
+msgstr "تغيير كلمة المرور"
+
+#: templates/profile/tabs/settings/basic-information.php:81
+msgid "Display name publicly as"
+msgstr "عرض الإسم علناً كـ"
+
+#: inc/widgets/popular-courses/popular-courses.php:64
+#: inc/widgets/recent-courses/recent-courses.php:64
+#: inc/widgets/featured-courses/featured-courses.php:63
+msgid "Show Thumbnail"
+msgstr "عرض الصورة المصغرة"
+
+#: inc/lp-template-functions.php:3278 inc/course/lp-course-functions.php:869
+msgid "Edit this item"
+msgstr "تعديل هذا العنصر"
+
+#: inc/lp-core-functions.php:830
+msgid "Hour(s)"
+msgstr "ساعة"
+
+#: inc/lp-core-functions.php:831
+msgid "Day(s)"
+msgstr "يوم"
+
+#: inc/lp-core-functions.php:829
+msgid "Minute(s)"
+msgstr "دقيقة"
+
+#: inc/lp-core-functions.php:2729
+msgid "Cancel Order"
+msgstr "إلغاء الطلب"
+
+#. translators: Publish box date format, see http://php.net/date
+#: inc/custom-post-types/abstract.php:771
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: templates/checkout/order-received.php:43 inc/custom-post-types/order.php:851
+msgid "Course does not exist"
+msgstr "المادة غير موجودة"
+
+#: inc/order/lp-order-functions.php:792
+msgid "Order number <strong>%s</strong> not found"
+msgstr "رقم الطلب <strong>%s</strong> غير موجود"
+
+#: inc/lp-core-functions.php:832
+msgid "Week(s)"
+msgstr "أسبوع"
+
+#: inc/lp-core-functions.php:2728
+msgid "Are you sure you want to cancel order?"
+msgstr "هل أنت متأكد أنك تريد إلغاء الطلب؟"
+
+#: inc/custom-post-types/quiz.php:422
+msgid "This quiz has no questions"
+msgstr "هذا الإختبار ليس لديه أسئلة"
+
+#: inc/custom-post-types/order.php:473
+msgid "Order number, user name, user email, course name etc..."
+msgstr "رقم الطلب، اسم المستخدم، بريد المستخدم الإلكتروني، أسم المادة إلخ..."
+
+#: inc/custom-post-types/abstract.php:773
+msgid "draft updated."
+msgstr "تم تحديث المسودة."
+
+#: inc/custom-post-types/abstract.php:766
+msgid "saved."
+msgstr "تم الحفظ."
+
+#: inc/custom-post-types/abstract.php:765
+msgid "published."
+msgstr "تم النشر."
+
+#: inc/custom-post-types/abstract.php:767
+msgid "submitted."
+msgstr "تم التقديم."
+
+#: inc/admin/views/setup/setup-stripe.php:7
+#: inc/widgets/course-progress/course-progress.php:46
+#: inc/widgets/popular-courses/popular-courses.php:46
+#: inc/widgets/recent-courses/recent-courses.php:46
+#: inc/widgets/featured-courses/featured-courses.php:45
+#: inc/widgets/course-filters/course-filters.php:11
+#: inc/widgets/course-info/course-info.php:46
+#: inc/widgets/course-attributes/course-attributes.php:11
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/class-lp-ajax.php:367
+msgid "Error!"
+msgstr "خطأ!"
+
+#: inc/curds/class-lp-user-curd.php:1263 inc/curds/class-lp-user-curd.php:1503
+msgid "course"
+msgstr "المادة"
+
+#: templates/profile/tabs/settings/basic-information.php:73
+msgid "Nickname"
+msgstr "اللقب"
+
+#: inc/lp-core-functions.php:2569
+msgid "Cart"
+msgstr "سلة المشتريات"
+
+#: inc/class-lp-assets.php:61 inc/lp-core-functions.php:2288
+#: inc/lp-core-functions.php:3381
+msgid "OK"
+msgstr "حسنًا"
+
+#: inc/emails/class-lp-email-user-order-completed.php:27
+msgid "User order completed"
+msgstr "طلب المستخدم اكتمل"
+
+#: inc/cart/class-lp-cart.php:144
+msgid "Sorry! This course is not purchasable."
+msgstr "المعذرة! هذة الدوره غير قابلة للشراء."
+
+#: inc/class-lp-checkout.php:564
+msgid "Item \"%s\" is not purchasable."
+msgstr "العنصر \"%s\" غير قابل للشراء."
+
+#: inc/emails/class-lp-email-become-an-instructor.php:31
+msgid "Become an instructor"
+msgstr "كُن مدربًا"
+
+#: inc/lp-core-functions.php:1638
+msgid "Please moderate"
+msgstr "يرجى الاعتدال"
+
+#: inc/order/class-lp-order.php:982
+msgctxt "full name"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/order/lp-order-functions.php:751
+msgid "Order received in case user buy a course but doesn't finalise the order."
+msgstr "إستلام الطلب في حالة أن العضو قد أشترى الدورة و لكن لم ينهي الطلب."
+
+#: inc/order/lp-order-functions.php:752
+msgid "Payment received and the order is awaiting fulfillment."
+msgstr "تم إستلام الدفع والطلب في انتظار الإنجاز"
+
+#: inc/order/lp-order-functions.php:753
+msgid "Order fulfilled and complete."
+msgstr "الطلب منجز ومكتمل."
+
+#: inc/order/lp-order-functions.php:754
+msgid "The order is cancelled by an admin or the customer."
+msgstr "الطلب أُلغي من قبل المشرف أو المشتري."
+
+#: templates/emails/plain/order-items-table.php:48
+msgid "Quantity: %s"
+msgstr "الكمية: %s"
+
+#: templates/emails/plain/order-items-table.php:50
+msgid "Cost: %s"
+msgstr "التكلفة: %s"
+
+#: inc/class-lp-ajax.php:269
+msgid "Access denied!"
+msgstr "تم رفض الوصول!"
+
+#: inc/admin/sub-menus/class-lp-submenu-tools.php:14
+msgid "LearnPress Tools"
+msgstr "أدوات LearnPress"
+
+#: inc/custom-post-types/order.php:912
+msgid "Search Orders"
+msgstr "بحث في الطلبات"
+
+#: inc/custom-post-types/order.php:911
+msgid "Update Order"
+msgstr "تحديث الطلب"
+
+#: inc/custom-post-types/order.php:913
+msgid "No order found"
+msgstr "لم يتم العثور على أي طلب"
+
+#: inc/custom-post-types/order.php:914
+msgid "No order found in Trash"
+msgstr "لم يتم العثور على أي طلب في سلة المهملات"
+
+#: inc/admin/lp-admin-functions.php:244
+msgid "Create"
+msgstr "إنشاء"
+
+#: inc/admin/lp-admin-functions.php:248
+msgid "Ok [Enter]"
+msgstr "حسناً [إدخال]"
+
+#: inc/admin/lp-admin-functions.php:247
+msgid "New page title"
+msgstr "عنوان الصفحة الجديدة"
+
+#: inc/course/abstract-course.php:1713
+msgid "Tags: "
+msgstr "الوسوم:"
+
+#: templates/content-quiz/history.php:53
+msgid "Time"
+msgstr "الزمن"
+
+#: templates/content-quiz/history.php:54
+msgid "Result"
+msgstr "النتيجة"
+
+#: templates/checkout/payment.php:132 templates/checkout/form.php:89
+#: inc/admin/views/setup/content.php:75
+#: inc/admin/views/updates/update-screen.php:46
+#: inc/custom-post-types/quiz.php:178 inc/custom-post-types/course.php:101
+msgid "Back"
+msgstr "رجوع"
+
+#: inc/lp-template-functions.php:2674 inc/lp-template-functions.php:3244
+msgid "Final"
+msgstr "النهائي"
+
+#: templates/content-quiz/buttons/check.php:24
+msgid "Check"
+msgstr "تحقق"
+
+#: inc/admin/class-lp-setup-wizard.php:229
+#: inc/admin/views/setup/steps/finish.php:12
+#: inc/admin/views/setup/content.php:92
+msgid "Finish"
+msgstr "إنهاء"
+
+#: templates/content-quiz/buttons/start.php:27
+msgid "Start"
+msgstr "البدء"
+
+#. Plugin URI of the plugin
+msgid "http://thimpress.com/learnpress"
+msgstr "http://thimpress.com/learnpress"
+
+#. Author of the plugin
+msgid "ThimPress"
+msgstr "ThimPress"
+
+#. Author URI of the plugin
+msgid "http://thimpress.com"
+msgstr "http://thimpress.com"
+
+#: templates/content-quiz/history.php:83
+msgid "No history found!"
+msgstr "لا يوجد محفوظات!"
+
+#: templates/content-quiz/history.php:34
+msgid "Other results (newest %d items)"
+msgstr "نتائج أخرى (أحدث %d عناصر)"
+
+#: templates/single-course/section/content.php:72
+msgid "No items in this section"
+msgstr "لا يوجد عناصر في هذا الجزء"
+
+#. Description of the plugin
+msgid "LearnPress is a WordPress complete solution for creating a Learning Management System (LMS). It can help you to create courses, lessons and quizzes."
+msgstr "LearnPress هي الحل الكامل لإنشاء نظام إدارة التعليم (LMS). يمكنها مساعدتك في إنشاء المواد، الدروس والإختبارات."
+
+#: inc/lp-core-functions.php:977
+msgid "Left"
+msgstr "يسار"
+
+#: inc/lp-core-functions.php:978
+msgid "Right"
+msgstr "يمين"
+
+#: inc/admin/settings/class-lp-settings-emails.php:147
+#: inc/admin/lp-admin-functions.php:377 inc/admin/lp-admin-functions.php:418
+msgid "HTML"
+msgstr "HTML"
+
+#: templates/content-quiz/buttons/complete.php:29
+#: templates/content-lesson/button-complete.php:46
+msgid "Complete"
+msgstr "مُكتمل"
+
+#: templates/profile/tabs/orders/list.php:36
+msgid "Action"
+msgstr "الإجراء"
+
+#: templates/order/confirm.php:52
+msgid "Date:"
+msgstr "التاريخ:"
+
+#: templates/order/confirm.php:29
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "يرجى إعادة تقديم طلبك من جديد أو اذهب لصفحة حسابك."
+
+#: templates/order/confirm.php:31
+msgid "Please attempt your purchase again."
+msgstr "يرجى إعادة تقديم طلبك من جديد."
+
+#: templates/order/confirm.php:25
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr "للأسف تعذرت عملية معالجة طلبك لأن البنك/التاجر رفض المعاملة."
+
+#: templates/checkout/payment.php:20 inc/class-lp-assets.php:71
+#: inc/class-lp-assets.php:78
+#: inc/shortcodes/class-lp-shortcode-become-a-teacher.php:124
+msgid "Processing"
+msgstr "قيد المعالجة"
+
+#: templates/checkout/form-logged-in.php:27
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "مُسجل باسم <a href=\"%1$s\">%2$s</a>."
+
+#: inc/lp-template-functions.php:2410
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; الصفحة %s"
+
+#: inc/lp-core-functions.php:980
+msgid "Right with space"
+msgstr "يمين مع مسافة"
+
+#: inc/lp-core-functions.php:979
+msgid "Left with space"
+msgstr "يسار مع مسافة"
+
+#: inc/admin/lp-admin-actions.php:64
+msgid "Scheduled"
+msgstr "مُجدول"
+
+#: inc/admin/lp-admin-actions.php:61
+#: inc/admin/views/dashboard/plugin-status/html-results.php:35
+msgid "Published"
+msgstr "منشور"
+
+#: inc/libraries/meta-box/inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "تحديد ملف"
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:381
+msgid "IPN payment completed"
+msgstr "أكتمل الدفع عبر الـ IPN"
+
+#: inc/custom-post-types/question.php:192
+msgid "Edit Question"
+msgstr "تحرير السؤال"
+
+#: inc/custom-post-types/question.php:189
+msgid "View Question"
+msgstr "عرض السؤال"
+
+#: templates/content-quiz/progress.php:43
+#: inc/custom-post-types/question.php:187 inc/custom-post-types/quiz.php:183
+msgid "Question"
+msgstr "السؤال"
+
+#: inc/user/class-lp-profile.php:293
+#: inc/admin/settings/class-lp-settings-profile.php:141
+#: inc/admin/views/updates/0.9/step-upgraded.php:16
+#: inc/libraries/meta-box/inc/about/about.php:79
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: inc/admin/views/updates/0.9/step-welcome.php:8
+msgid "Yes, upgrade!"
+msgstr "نعم، ترقية!"
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:5
+msgid "Manage courses"
+msgstr "إدارة الدورات"
+
+#: inc/quiz/class-lp-quiz.php:500
+msgid "Finish quiz"
+msgstr "إنهاء الإختبار"
+
+#: inc/quiz/class-lp-quiz.php:504
+msgid "Retake quiz"
+msgstr "إعادة الاختبار"
+
+#: inc/libraries/meta-box/inc/fields/file.php:126
+msgctxt "file upload"
+msgid "Edit"
+msgstr "تحرير"
+
+#: inc/custom-post-types/lesson.php:187
+msgid "View Lesson"
+msgstr "عرض الدرس"
+
+#: inc/admin/views/updates/0.9/step-welcome.php:3
+msgid "In version <strong>%s</strong> of LearnPress we have a big update and need to upgrade your database to ensure system works properly."
+msgstr "في الإصدار <strong>%s</strong> من LearnPress لدينا تحديث كبير وتحتاج إلى ترقية قاعدة البيانات الخاصة بك لضمان عمل النظام بشكل صحيح."
+
+#: inc/user/class-lp-profile.php:284 inc/lp-deprecated.php:372
+#: inc/custom-post-types/order.php:770
+msgid "Purchased"
+msgstr "تم شراءها"
+
+#: templates/single-course/tabs/curriculum.php:47
+msgid "Curriculum is empty"
+msgstr "المنهج فارغ"
+
+#: templates/single-course/buttons/purchase.php:32
+msgid "Buy this course"
+msgstr "إشتري هذه المادة"
+
+#: templates/single-course/buttons/enroll.php:32
+msgid "Enroll"
+msgstr "إلتحاق"
+
+#: inc/lp-deprecated.php:371
+msgid "Learning"
+msgstr "التعلم"
+
+#: inc/question/class-lp-question-true-or-false.php:58
+msgid "False"
+msgstr "خاطئ"
+
+#: inc/question/class-lp-question.php:311
+msgid "True Or False"
+msgstr "صح أو خطأ"
+
+#: inc/question/class-lp-question.php:312
+msgid "Multi Choice"
+msgstr "إختيار متعدد"
+
+#: inc/question/class-lp-question.php:313
+msgid "Single Choice"
+msgstr "إختيار واحد"
+
+#: inc/order/class-lp-order.php:1099
+msgid "Order on"
+msgstr "طلب في"
+
+#: inc/lp-js-template.php:11
+msgid "--Select a Lesson--"
+msgstr "--تحديد الدرس--"
+
+#: inc/lp-template-functions.php:2357
+msgid "Access denied \"%s\""
+msgstr "الوصول مرفوض \"%s\""
+
+#: inc/lp-core-functions.php:1650
+msgid "Name: %s"
+msgstr "الأسم: %s"
+
+#: inc/lp-core-functions.php:1652
+msgid "Phone: %s"
+msgstr "الهاتف: %s"
+
+#: inc/lp-core-functions.php:1659
+msgid "Accept: %s"
+msgstr "قبول: %s"
+
+#: inc/admin/class-lp-modal-search-items.php:210
+#: inc/admin/class-lp-modal-search-users.php:135 inc/lp-core-functions.php:750
+msgid "<"
+msgstr ">"
+
+#: inc/admin/class-lp-modal-search-items.php:211
+#: inc/admin/class-lp-modal-search-users.php:136 inc/lp-core-functions.php:751
+msgid ">"
+msgstr "<"
+
+#: inc/admin/views/addons/html-loop-plugin.php:38
+msgid "<cite>By %s</cite>"
+msgstr "<cite>بواسطة %s</cite>"
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:252
+#: inc/admin/helpers/class-lp-plugins-helper.php:262
+msgid "Disable Now"
+msgstr "تعطيل الآن"
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:254
+#: inc/admin/helpers/class-lp-plugins-helper.php:264
+msgid "Enable Now"
+msgstr "التمكين الآن"
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:269
+msgid "Buy %s now"
+msgstr "شراء %s الآن"
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:252
+#: inc/admin/helpers/class-lp-plugins-helper.php:262
+msgid "Disable %s now"
+msgstr "تعطيل %s الآن"
+
+#: inc/question/class-lp-question-true-or-false.php:52
+msgid "True"
+msgstr "صحيح"
+
+#: inc/lp-webhooks.php:88
+msgid "LearnPress webhook process Complete"
+msgstr "عملية LearnPress webhook إكتملت"
+
+#: inc/lp-core-functions.php:1630
+msgid "Please enter your email address"
+msgstr "يرجى إدخال عنوان البريد الخاص بك"
+
+#: inc/libraries/meta-box/inc/core.php:39
+#: inc/libraries/meta-box/inc/about/sections/getting-started.php:25
+#: inc/libraries/meta-box/inc/about/sections/welcome.php:20
+#: inc/libraries/meta-box/inc/about/sections/tabs.php:12
+msgid "Extensions"
+msgstr "الملحقات"
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:96
+msgid "Pay with Paypal"
+msgstr "إدفع بواسطة باي بال"
+
+#: inc/custom-post-types/quiz.php:93
+msgid "Add New Quiz"
+msgstr "إضافة إختبار جديد"
+
+#: inc/custom-post-types/quiz.php:94
+msgid "Edit Quiz"
+msgstr "تعديل الإختبار"
+
+#: inc/custom-post-types/quiz.php:96
+msgid "View Quiz"
+msgstr "عرض الإختبار"
+
+#: inc/admin/editor/class-lp-admin-editor-quiz.php:147
+#: inc/curds/class-lp-quiz-curd.php:85 inc/custom-post-types/quiz.php:97
+msgid "New Quiz"
+msgstr "إختبار جديد"
+
+#: inc/custom-post-types/quiz.php:98
+msgid "Update Quiz"
+msgstr "تحديث الإختبار"
+
+#: templates/checkout/form-register.php:36
+msgid "New Customer"
+msgstr "عميل جديد"
+
+#: templates/checkout/form-register.php:38
+msgid "Register Account"
+msgstr "تسجيل حساب"
+
+#: templates/checkout/form-login.php:34
+msgid "Returning customer"
+msgstr "عميل عائد"
+
+#: inc/quiz/class-lp-quiz.php:511
+msgid "Congrats! You have finished this quiz"
+msgstr "مبارك! لقد انهيت هذا الإختبار"
+
+#: inc/quiz/class-lp-quiz.php:512
+msgid "Congrats! You have re-taken this quiz. Please wait a moment and the page will reload"
+msgstr "مبارك! لقد قمت بإعادة هذا الإختبار. يرجى الانتظار لحظة وسيتم إعادة تحميل الصفحة"
+
+#: templates/profile/tabs/courses.php:21
+msgid "You haven't got any courses yet!"
+msgstr "لم تحصل على أي دورات بعد!"
+
+#: inc/quiz/class-lp-quiz.php:505
+msgid "Are you sure you want to retake this quiz?"
+msgstr "هل أنت متأكد بأنك تريد إعادة هذا الاختبار؟"
+
+#: inc/lp-core-functions.php:1625
+msgid "Please enter your name"
+msgstr "الرجاء إدخال اسمك"
+
+#: inc/custom-post-types/order.php:1005
+msgid "Order Actions"
+msgstr "إجراءات الطلب"
+
+#: inc/custom-post-types/order.php:769
+msgid "Student"
+msgstr "طالب"
+
+#: inc/custom-post-types/lesson.php:429
+msgid "Please enter the title of the lesson"
+msgstr "الرجاء إدخال عنوان الدرس"
+
+#: inc/custom-post-types/lesson.php:227
+msgid "Lesson Settings"
+msgstr "إعدادات الدرس"
+
+#: inc/custom-post-types/lesson.php:231
+msgid "Lesson Duration"
+msgstr "مدة الدرس"
+
+#: inc/custom-post-types/lesson.php:239
+msgid "Preview Lesson"
+msgstr "معاينة الدرس"
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:254
+#: inc/admin/helpers/class-lp-plugins-helper.php:264
+msgid "Enable %s now"
+msgstr "تمكين %s الأن"
+
+#: inc/libraries/meta-box/inc/validation.php:50
+msgid "Please correct the errors highlighted below and try again."
+msgstr "يرجى تصحيح الأخطاء المحددة أدناه والمحاولة مرة أخرى."
+
+#. Translators: %s is the taxonomy singular label.
+#: inc/libraries/meta-box/inc/fields/taxonomy.php:53
+#: inc/libraries/meta-box/inc/fields/post.php:41
+msgid "Select a %s"
+msgstr "تحديد %s"
+
+#: inc/libraries/meta-box/inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr "تضمين HTML غير متوفر."
+
+#: inc/libraries/meta-box/inc/fields/thickbox-image.php:55
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "رفع الصور"
+
+#: inc/libraries/meta-box/inc/fields/osm.php:60
+#: inc/libraries/meta-box/inc/fields/map.php:87
+msgid "Find Address"
+msgstr "اعثر على العنوان"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/libraries/meta-box/inc/fields/file.php:24
+msgid "You may only upload maximum %d file"
+msgstr "يجوز لك رفع %d ملف كحد أقصى فقط "
+
+#. Translators: %d is the number of files in plural form.
+#: inc/libraries/meta-box/inc/fields/file.php:26
+msgid "You may only upload maximum %d files"
+msgstr "يجوز لك رفع %d ملفات كحد أقصى فقط"
+
+#: inc/libraries/meta-box/inc/fields/button.php:34
+msgid "Click me"
+msgstr "إأنقُرني"
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:242
+msgid "Error: order ID and key were not found in \"custom\"."
+msgstr "خطأ: لم يتم إيجاد معرف ومفتاح الطلب في \"مخصص\"."
+
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:250
+msgid "Error: Order Keys do not match %s and %s."
+msgstr "خطأ: مفتاح الطلب غير مطابق %s و %s."
+
+#: inc/custom-post-types/quiz.php:99
+msgid "Search Quizzes"
+msgstr "البحث عن الإختبارات"
+
+#: inc/custom-post-types/quiz.php:101
+msgid "No quiz found in Trash"
+msgstr "لم يتم العثور على إختبار في سلة المهملات"
+
+#: inc/custom-post-types/quiz.php:318
+msgid "Re-take"
+msgstr "إعادة"
+
+#: inc/updates/_update-from-0.9.php:1206
+msgctxt "Permalink Slug"
+msgid "lesson-tag"
+msgstr "lesson-tag"
+
+#: inc/updates/_update-from-0.9.php:1228
+msgctxt "Permalink Slug"
+msgid "question-tag"
+msgstr "question-tag"
+
+#: inc/emails/class-lp-email-published-course.php:28
+msgid "Approved course"
+msgstr "دورة موافق عليها"
+
+#: inc/emails/class-lp-email-rejected-course.php:28
+#: inc/emails/class-lp-email-rejected-course.php:35
+msgid "Rejected course"
+msgstr "دورة مرفوضة"
+
+#: inc/emails/class-lp-email-published-course.php:35
+msgid "Course approved"
+msgstr "تمت الموافقة على الدورة"
+
+#: templates/widgets/course-info/default.php:34
+#: inc/user/class-lp-profile.php:306
+#: inc/admin/settings/class-lp-settings-profile.php:157
+#: inc/admin/settings/class-lp-settings-profile.php:291
+#: inc/custom-post-types/quiz.php:90 inc/custom-post-types/quiz.php:91
+#: inc/custom-post-types/quiz.php:95
+msgid "Quizzes"
+msgstr "الإختبارات"
+
+#: inc/admin/views/quiz/question-meta.php:31
+#: inc/custom-post-types/question.php:298
+msgid "Mark for this question"
+msgstr "علامة هذا السؤال"
+
+#: inc/custom-post-types/course.php:233
+msgctxt "slug"
+msgid "course-tag"
+msgstr "course-tag"
+
+#: inc/custom-post-types/course.php:212
+msgid "Search Course Tags"
+msgstr "البحث عن وسوم الدورة"
+
+#: inc/custom-post-types/course.php:213
+msgid "Popular Course Tags"
+msgstr "وسوم الدورة الشعبية"
+
+#: inc/custom-post-types/course.php:214
+msgid "All Course Tags"
+msgstr "جميع وسوم الدورة"
+
+#: inc/custom-post-types/course.php:217
+msgid "Edit Course Tag"
+msgstr "تعديل وسم الدورة"
+
+#: inc/custom-post-types/course.php:218
+msgid "Update Course Tag"
+msgstr "تحديث وسم الدورة"
+
+#: inc/custom-post-types/course.php:219
+msgid "Add New Course Tag"
+msgstr "إضافة وسم دورة جديد"
+
+#: inc/custom-post-types/course.php:220
+msgid "New Course Tag Name"
+msgstr "إسم وسم دورة جديد"
+
+#: inc/custom-post-types/course.php:210
+msgid "Course Tags"
+msgstr "وسوم الدورة"
+
+#: inc/custom-post-types/course.php:199
+msgctxt "slug"
+msgid "course-category"
+msgstr "course-category"
+
+#: inc/custom-post-types/course.php:187
+msgid "Add New Course Category"
+msgstr "إضافة تصنيف دورة جديد"
+
+#: inc/custom-post-types/course.php:133
+msgid "Parent Item:"
+msgstr "العنصر الأب:"
+
+#: inc/custom-post-types/course.php:182 inc/custom-post-types/course.php:184
+msgid "Course Categories"
+msgstr "تصنيفات الدورة"
+
+#: inc/custom-post-types/course.php:142
+msgid "No course found in Trash"
+msgstr "لم يتم العثور على دورة في سلة المهملات"
+
+#: inc/custom-post-types/course.php:135
+msgid "View Course"
+msgstr "عرض الدورة"
+
+#: inc/custom-post-types/course.php:136
+msgid "Add New Course"
+msgstr "إضافة دورة جديدة"
+
+#: inc/custom-post-types/course.php:138
+msgid "Edit Course"
+msgstr "تعديل الدورة"
+
+#: inc/custom-post-types/course.php:139
+msgid "Update Course"
+msgstr "تحديث الدورة"
+
+#: inc/custom-post-types/course.php:140
+msgid "Search Courses"
+msgstr "البحث عن الدورات"
+
+#: inc/course/lp-course-functions.php:235
+msgid "The course %d does not exists"
+msgstr "الدورة %d غير موجودة"
+
+#: inc/custom-post-types/course.php:130
+msgctxt "Post Type General Name"
+msgid "Courses"
+msgstr "الدورات"
+
+#: inc/custom-post-types/course.php:131
+msgctxt "Post Type Singular Name"
+msgid "Course"
+msgstr "دورة"
+
+#: inc/course/abstract-course.php:485
+msgid "You enrolled"
+msgstr "أنت ملتحق"
+
+#: inc/lp-core-functions.php:1588
+msgid "Your phone number"
+msgstr "رقم هاتفك"
+
+#: templates/single-course/buttons/finish.php:24
+msgid "Finish course"
+msgstr "إنهاء الدورة"
+
+#: inc/course/lp-course-functions.php:187
+msgctxt "slug"
+msgid "uncategorized"
+msgstr "غير مصنف"
+
+#: inc/lp-core-functions.php:1580
+msgid "Your email address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: inc/class-lp-install.php:517
+msgid "No, thank!"
+msgstr "لا، شكرًا!"
+
+#: inc/custom-post-types/question.php:194
+msgid "Search Questions"
+msgstr "البحث عن الأسئلة"
+
+#: inc/custom-post-types/question.php:193
+msgid "Update Question"
+msgstr "تحديث السؤال"
+
+#: inc/custom-post-types/question.php:185
+#: inc/custom-post-types/question.php:186
+msgid "Question Bank"
+msgstr "بنك السؤال"
+
+#: inc/admin/views/meta-boxes/quiz/assigned.php:49
+#: inc/admin/views/meta-boxes/course/assigned.php:27
+#: inc/custom-post-types/question.php:379
+#: inc/custom-post-types/abstract.php:600
+msgid "Not assigned yet"
+msgstr "لم يتم التعيين بعد"
+
+#: inc/custom-post-types/abstract.php:594
+msgid "Remove Filter"
+msgstr "إزالة المرشح"
+
+#: inc/custom-post-types/lesson.php:192
+msgid "No lesson found"
+msgstr "لم يتم العثور على أي درس"
+
+#: inc/custom-post-types/course.php:1359
+msgid "No content"
+msgstr "لا يوجد محتوى"
+
+#: inc/custom-post-types/lesson.php:185
+msgid "Add New Lesson"
+msgstr "أضف درس جديد"
+
+#: inc/custom-post-types/lesson.php:189
+msgid "Edit Lesson"
+msgstr "تعديل الدرس"
+
+#: inc/custom-post-types/lesson.php:190
+msgid "Update Lesson"
+msgstr "تحديث الدرس"
+
+#: inc/custom-post-types/lesson.php:191
+msgid "Search Lessons"
+msgstr "البحث عن الدروس"
+
+#: inc/custom-post-types/lesson.php:193
+msgid "No lesson found in Trash"
+msgstr "لم يتم العثور على درس في سلة المهملات"
+
+#: inc/custom-post-types/course.php:880
+msgid "Course Suggestion Price"
+msgstr "سعر الدورة المقترح"
+
+#: inc/custom-post-types/course.php:885
+msgid "The course price you want to suggest for admin to set."
+msgstr "سعر الدورة الذي تريد إقتراحه للمسؤول ليضعه."
+
+#: inc/custom-post-types/course.php:971
+msgid "Review Logs"
+msgstr "سجلات المراجعة"
+
+#: inc/custom-post-types/course.php:710
+msgid "Course result"
+msgstr "نتيجة الدورة"
+
+#: inc/lp-template-functions.php:3333
+msgid "Back to class"
+msgstr "العودة الى الصف"
+
+#: inc/class-lp-install.php:517
+#: inc/admin/views/tools/database/html-upgrade-database.php:17
+msgid "Upgrade now"
+msgstr "الترقية الآن"
+
+#: inc/class-lp-checkout.php:420
+msgid "Please enter user password"
+msgstr "الرجاء إدخال كلمة مرور المستخدم"
+
+#: inc/admin/class-lp-admin.php:310 inc/admin/views/setup/steps/pages.php:49
+#: inc/shortcodes/class-lp-shortcode-become-a-teacher.php:121
+msgid "Become a Teacher"
+msgstr "كن معلمًا"
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:14
+msgid "Manage add-ons"
+msgstr "إدارة الملحقات"
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:8
+msgid "Create a new course"
+msgstr "إنشاء دورة جديدة"
+
+#: inc/admin/views/updates/0.9/step-upgraded.php:11
+msgid "Setting up your LearnPress"
+msgstr "إعداد LearnPress الخاص بك"
+
+#: inc/admin/views/updates/0.9/step-welcome.php:7
+msgid "No, back to Admin"
+msgstr "لا، العودة إلى المدير"
+
+#: inc/admin/views/updates/0.9/step-welcome.php:5
+msgid "Click <strong>Yes, upgrade!</strong> button to start."
+msgstr "أنقر زر <strong>نعم ترقية!</strong> للبدء."
+
+#: inc/admin/views/updates/0.9/step-welcome.php:1
+msgid "Welcome to LearnPress!"
+msgstr "مرحباً بك في LearnPress!"
+
+#: inc/updates/_update-from-0.9.php:1216 inc/custom-post-types/question.php:163
+msgid "Question Tag"
+msgstr "وسم السؤال"
+
+#: inc/admin/views/updates/0.9/update-wizard.php:6
+#: inc/admin/views/updates/0.9/update-wizard.php:19
+msgid "LearnPress update version %s"
+msgstr "إصدار تحديث LearnPress %s"
+
+#: inc/custom-post-types/course.php:704
+msgid "Assessment"
+msgstr "التقدير"
+
+#: inc/custom-post-types/course.php:731
+msgid "Passing condition value"
+msgstr "تمرير قيمة الشرط"
+
+#: inc/class-lp-page-controller.php:465
+msgid "The user %s is not available!"
+msgstr "%s العضو غير متوفر"
+
+#: inc/class-lp-install.php:516
+msgid "Do not ask again."
+msgstr "لا تسأل مرة أخرى."
+
+#: inc/custom-post-types/course.php:668
+msgid "<br /><strong>Note! </strong>No final quiz in course, please add a final quiz"
+msgstr "<br /><strong>ملاحظة! </strong>لا يوجد إختبار نهائي في الدورة، الرجاء إضافة إختبار نهائي"
+
+#: inc/custom-post-types/course.php:1297 inc/custom-post-types/course.php:1304
+msgid "Content"
+msgstr "المحتوى"
+
+#: templates/emails/order-items-table.php:68
+#: inc/custom-post-types/course.php:828 inc/custom-post-types/course.php:1299
+#: inc/custom-post-types/course.php:1306
+msgid "Price"
+msgstr "السعر"
+
+#: inc/admin/lp-admin-actions.php:212 inc/custom-post-types/course.php:1309
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: inc/order/lp-order-functions.php:710
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] "في إنتظار الدفع <span class=\"count\">(%s)</span>"
+msgstr[1] "في إنتظار الدفع <span class=\"count\">(%s)</span>"
+msgstr[2] "في إنتظار الدفع <span class=\"count\">(%s)</span>"
+msgstr[3] "في إنتظار الدفع <span class=\"count\">(%s)</span>"
+msgstr[4] "في إنتظار الدفع <span class=\"count\">(%s)</span>"
+msgstr[5] "في إنتظار الدفع <span class=\"count\">(%s)</span>"
+
+#: inc/class-lp-ajax.php:281
+msgid "Error! You cannot finish this course. Please contact your administrator for more information."
+msgstr "خطأ! لا يمكنك الانتهاء من هذه الدورة. يرجى الاتصال بالمسؤول للحصول على مزيد من المعلومات."
+
+#: inc/class-lp-emails.php:137 inc/class-lp-emails.php:144
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: inc/class-lp-multi-language.php:53 inc/libraries/meta-box/inc/core.php:38
+#: inc/libraries/meta-box/inc/about/sections/welcome.php:19
+msgid "Documentation"
+msgstr "التوثيق"
+
+#: inc/class-lp-breadcrumb.php:124
+msgid "Error 404"
+msgstr "خطأ 404"
+
+#: templates/checkout/form-login.php:63 inc/class-lp-checkout.php:210
+#: inc/shortcodes/class-lp-shortcode-register-form.php:64
+#: inc/shortcodes/class-lp-shortcode-register-form.php:66
+msgid "Username"
+msgstr "إسم المستخدم"
+
+#: templates/checkout/form-login.php:70 inc/user/class-lp-profile.php:336
+#: inc/class-lp-checkout.php:211
+#: inc/shortcodes/class-lp-shortcode-login-form.php:69
+#: inc/shortcodes/class-lp-shortcode-login-form.php:71
+#: inc/shortcodes/class-lp-shortcode-register-form.php:80
+#: inc/shortcodes/class-lp-shortcode-register-form.php:82
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: inc/class-lp-breadcrumb.php:397
+msgid "Page %d"
+msgstr "صفحة %d"
+
+#: inc/class-lp-breadcrumb.php:355
+msgid "Author: %s"
+msgstr "المؤلف: %s"
+
+#: templates/global/become-teacher-form/button.php:18
+#: inc/shortcodes/class-lp-shortcode-become-a-teacher.php:123
+msgid "Submit"
+msgstr "تقديم"
+
+#: inc/admin/views/tools/course/html-course.php:29
+#: inc/admin/views/tools/course/html-user.php:29
+#: inc/admin/views/quiz/editor.php:29 inc/lp-core-functions.php:1570
+msgid "Name"
+msgstr "الإسم"
+
+#: inc/lp-core-functions.php:1572
+msgid "Your name"
+msgstr "إسمك"
+
+#: inc/admin/meta-box/fields/list-emails.php:28
+#: inc/shortcodes/class-lp-shortcode-register-form.php:72
+#: inc/shortcodes/class-lp-shortcode-register-form.php:74
+#: inc/lp-core-functions.php:1578
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: inc/lp-core-functions.php:1586
+msgid "Phone"
+msgstr "الهاتف"
+
+#: inc/custom-post-types/course.php:185 inc/custom-post-types/course.php:186
+msgid "Category"
+msgstr "التصنيف"
+
+#: inc/custom-post-types/course.php:188
+msgid "All Categories"
+msgstr "جميع التصنيفات"
+
+#: inc/updates/_update-from-0.9.php:1194 inc/updates/_update-from-0.9.php:1195
+#: inc/updates/_update-from-0.9.php:1196 inc/updates/_update-from-0.9.php:1217
+#: inc/updates/_update-from-0.9.php:1218 inc/custom-post-types/question.php:164
+#: inc/custom-post-types/question.php:165 inc/custom-post-types/course.php:211
+msgid "Tag"
+msgstr "الوسم"
+
+#: inc/admin/lp-admin-actions.php:217 inc/custom-post-types/course.php:224
+msgid "Tags"
+msgstr "الوسوم"
+
+#: inc/custom-post-types/course.php:221
+msgid "Separate tags with commas"
+msgstr "إفصل الوسوم بفواصل"
+
+#: inc/custom-post-types/course.php:222
+msgid "Add or remove tags"
+msgstr "إضافة أو إزالة الوسوم"
+
+#: inc/custom-post-types/course.php:223
+msgid "Choose from the most used tags"
+msgstr "إختر من بين الوسوم الأكثر إستخدامًا"
+
+#: inc/custom-post-types/quiz.php:229
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: templates/content-quiz/intro.php:28 inc/custom-post-types/lesson.php:316
+#: inc/custom-post-types/quiz.php:266 inc/custom-post-types/quiz.php:384
+#: inc/custom-post-types/course.php:584
+msgid "Duration"
+msgstr "المدة"
+
+#: templates/content-quiz/intro.php:25 inc/class-lp-assets.php:64
+#: inc/lp-core-functions.php:2291 inc/lp-core-functions.php:3384
+#: inc/libraries/meta-box/inc/fields/checkbox.php:53 inc/class-lp-gdpr.php:426
+msgid "No"
+msgstr "لا"
+
+#: inc/updates/_update-from-0.9.php:1198 inc/updates/_update-from-0.9.php:1220
+#: inc/custom-post-types/question.php:167
+msgid "All Tags"
+msgstr "جميع الوسوم"
+
+#: inc/class-lp-assets.php:63 inc/lp-core-functions.php:2290
+#: inc/lp-core-functions.php:3383
+#: inc/libraries/meta-box/inc/fields/checkbox.php:53 inc/class-lp-gdpr.php:426
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/custom-post-types/lesson.php:315
+msgid "Format"
+msgstr "الصيغة"
+
+#: templates/single-course/section/item-meta.php:25
+#: inc/lp-template-functions.php:2683 inc/course/lp-course-functions.php:948
+#: inc/custom-post-types/lesson.php:319 inc/custom-post-types/quiz.php:385
+#: inc/custom-post-types/abstract.php:800
+msgid "Preview"
+msgstr "معاينة"
+
+#: inc/admin/class-lp-install-sample-data.php:130
+#: inc/admin/views/meta-boxes/quiz/assigned.php:28
+#: inc/admin/views/meta-boxes/quiz/assigned.php:38
+#: inc/admin/views/meta-boxes/course/assigned.php:22
+#: inc/order/class-lp-order.php:929 inc/custom-post-types/question.php:376
+#: inc/custom-post-types/abstract.php:587
+#: inc/custom-post-types/abstract.php:779
+#: inc/custom-post-types/abstract.php:788
+msgid "View"
+msgstr "عرض"
+
+#: inc/widgets/course-filters/tmpl/default.php:83
+msgid "Filter"
+msgstr "المرشح"
+
+#: inc/custom-post-types/lesson.php:359
+msgid "Standard"
+msgstr "معيار"
+
+#: inc/custom-post-types/order.php:651 inc/custom-post-types/order.php:654
+msgid "Apply"
+msgstr "تطبيق"
+
+#: inc/custom-post-types/order.php:692 inc/custom-post-types/order.php:909
+msgid "View Order"
+msgstr "عرض الطلب"
+
+#: templates/profile/tabs/orders/list.php:32
+#: inc/custom-post-types/order.php:768 inc/custom-post-types/order.php:905
+msgid "Order"
+msgstr "الطلب"
+
+#: templates/profile/tabs/quizzes.php:39
+#: templates/profile/tabs/orders/list.php:33
+#: templates/profile/tabs/courses.php:33
+#: templates/profile/tabs/courses/purchased.php:39
+#: templates/checkout/order-received.php:62
+#: inc/admin/views/statistics/orders.php:46
+#: inc/admin/views/meta-boxes/order/details.php:38
+#: inc/custom-post-types/order.php:771
+msgid "Date"
+msgstr "التاريخ"
+
+#: templates/profile/tabs/orders/list.php:34
+#: templates/emails/order-items-table.php:53
+#: templates/emails/plain/order-items-table.php:30
+#: inc/admin/meta-box/fields/payment-order.php:32
+#: inc/admin/meta-box/fields/list-emails.php:30
+#: inc/admin/views/meta-boxes/order/details.php:57 inc/class-lp-gdpr.php:415
+#: inc/custom-post-types/order.php:773
+msgid "Status"
+msgstr "الحالة"
+
+#: inc/custom-post-types/order.php:906
+msgid "Add New Order"
+msgstr "إضافة طلب جديد"
+
+#: templates/order/order-details.php:23 inc/custom-post-types/order.php:907
+#: inc/custom-post-types/order.php:1004
+msgid "Order Details"
+msgstr "تفاصيل الطلب"
+
+#: inc/admin/helpers/class-lp-plugins-helper.php:269
+msgid "Buy Now"
+msgstr "إشتري الآن"
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/helpers/class-lp-plugins-helper.php:238
+msgid "Install Now"
+msgstr "تثبيت الآن"
+
+#: inc/emails/class-lp-email-cancelled-order-user.php:27
+#: inc/emails/class-lp-email-finished-course-user.php:27
+#: inc/emails/class-lp-email-processing-order-user.php:26
+#: inc/emails/class-lp-email-completed-order-user.php:29
+#: inc/emails/class-lp-email-new-order-user.php:27
+#: inc/emails/class-lp-email-enrolled-course-user.php:27
+msgid "User"
+msgstr "عضو"
+
+#: inc/libraries/meta-box/inc/fields/file.php:70
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ أضف ملف جديد"
+
+#: inc/libraries/meta-box/inc/fields/file.php:57
+msgid "Error: Cannot delete file"
+msgstr "خطأ: لا يمكن حذف الملف"
+
+#: inc/admin/views/quiz/editor.php:64
+#: inc/libraries/meta-box/inc/fields/file-input.php:43
+#: inc/libraries/meta-box/inc/fields/select.php:92
+msgid "Select"
+msgstr "تحديد"
+
+#: inc/user/class-lp-profile.php:325
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:14
+#: inc/admin/views/quiz/question-meta.php:12 inc/class-lp-multi-language.php:52
+#: inc/custom-post-types/question.php:294
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: inc/libraries/meta-box/inc/fields/file.php:125
+msgctxt "file upload"
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/order/lp-order-functions.php:721
+msgctxt "Order status"
+msgid "Completed"
+msgstr "إكتمل"
+
+#: inc/order/lp-order-functions.php:726
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] "مكتمل <span class=\"count\">(%s)</span>"
+msgstr[1] "مكتمل <span class=\"count\">(%s)</span>"
+msgstr[2] "مكتمل <span class=\"count\">(%s)</span>"
+msgstr[3] "مكتمل <span class=\"count\">(%s)</span>"
+msgstr[4] "مكتمل <span class=\"count\">(%s)</span>"
+msgstr[5] "مكتمل <span class=\"count\">(%s)</span>"
+
+#: inc/class-lp-breadcrumb.php:278
+msgid "Posts tagged &ldquo;%s&rdquo;"
+msgstr "المقالات الموسومة &ldquo;%s&rdquo;"
+
+#: inc/custom-post-types/question.php:190
+msgid "Add New Question"
+msgstr "إضافة سؤال جديد"
+
+#: inc/order/lp-order-functions.php:705
+msgctxt "Order status"
+msgid "Pending Payment"
+msgstr "في انتظار الدفع"
+
+#: inc/order/lp-order-functions.php:713
+msgctxt "Order status"
+msgid "Processing"
+msgstr "معالجة"
+
+#: inc/order/lp-order-functions.php:718
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] "معالجة <span class=\"count\">(%s)</span>"
+msgstr[1] "معالجة <span class=\"count\">(%s)</span>"
+msgstr[2] "معالجة <span class=\"count\">(%s)</span>"
+msgstr[3] "معالجة <span class=\"count\">(%s)</span>"
+msgstr[4] "معالجة <span class=\"count\">(%s)</span>"
+msgstr[5] "معالجة <span class=\"count\">(%s)</span>"
+
+#: inc/order/lp-order-functions.php:729
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr "مُلغاة"
+
+#: inc/order/lp-order-functions.php:734
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] "مُلغاة <span class=\"count\">(%s)</span>"
+msgstr[1] "مُلغاة <span class=\"count\">(%s)</span>"
+msgstr[2] "مُلغاة <span class=\"count\">(%s)</span>"
+msgstr[3] "مُلغاة <span class=\"count\">(%s)</span>"
+msgstr[4] "مُلغاة <span class=\"count\">(%s)</span>"
+msgstr[5] "مُلغاة <span class=\"count\">(%s)</span>"
+
+#: inc/admin/lp-admin-functions.php:376 inc/admin/lp-admin-functions.php:417
+msgid "Plain text"
+msgstr "نص عادي"
+
+#: inc/admin/lp-admin-actions.php:62
+msgid "Private"
+msgstr "خاص"
+
+#: inc/admin/lp-admin-actions.php:63
+msgid "Pending Review"
+msgstr "في انتظار المراجعة"
+
+#: inc/admin/lp-admin-actions.php:65
+msgid "Draft"
+msgstr "مسودة"
+
+#: inc/admin/lp-admin-actions.php:66
+msgid "Trash"
+msgstr "سلة المهملات"
+
+#: inc/lp-core-functions.php:1651
+msgid "Email: %s"
+msgstr "البريد الإلكتروني: %s"
+
+#: inc/admin/class-lp-setup-wizard.php:221
+#: inc/admin/meta-box/fields/payment-order.php:29
+#: inc/admin/views/setup/steps/payment.php:16
+msgid "Payment"
+msgstr "الدفع"
+
+#: inc/lp-template-functions.php:1463
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/custom-post-types/quiz.php:176
+msgid "Option"
+msgstr "الخيار"
+
+#: templates/content-quiz/intro.php:25 templates/content-quiz/progress.php:47
+#: inc/quiz/class-lp-quiz.php:442
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#: templates/checkout/empty-cart.php:19 inc/class-lp-checkout.php:545
+msgid "Your cart is currently empty."
+msgstr "سلة مشترياتك فارغة حاليًا."
+
+#: templates/checkout/form-logged-in.php:30
+msgid "Log out of this account"
+msgstr "تسجيل الخروج من هذا الحساب"
+
+#: templates/checkout/form-logged-in.php:30
+msgid "Log out &raquo;"
+msgstr "تسجيل الخروج &raquo;"
+
+#: templates/global/form-login.php:49 templates/checkout/form-login.php:102
+#: templates/checkout/form-login.php:112
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: templates/content-quiz/buttons/continue.php:26
+#: templates/single-course/buttons/continue.php:23
+#: inc/admin/views/setup/content.php:86
+msgid "Continue"
+msgstr "متابعة"
+
+#: templates/checkout/order-comment.php:20
+msgid "Additional Information"
+msgstr "معلومة اضافية"
+
+#: templates/checkout/order-received.php:25 inc/order/class-lp-order.php:187
+#: inc/order/class-lp-order.php:206
+msgid "Thank you. Your order has been received."
+msgstr "شكرًا لك. تم إستلام طلبك."
+
+#: templates/checkout/order-received.php:29
+#: templates/emails/order-items-table.php:41
+#: templates/emails/plain/order-items-table.php:24
+msgid "Order Number"
+msgstr "رقم الطلب"
+
+#: templates/checkout/payment.php:40 templates/checkout/order-received.php:75
+#: templates/emails/order-items-table.php:49
+#: templates/emails/plain/order-items-table.php:28
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: templates/checkout/payment.php:19 inc/class-lp-assets.php:75
+msgid "Place order"
+msgstr "مكان الطلب"
+
+#: templates/checkout/review-order.php:20
+msgid "Your order"
+msgstr "طلبك"
+
+#: templates/order/confirm.php:48
+msgid "Order Number:"
+msgstr "رقم الطلب:"
+
+#: templates/order/confirm.php:56
+msgid "Total:"
+msgstr "المجموع:"
+
+#: templates/order/confirm.php:61
+msgid "Payment Method:"
+msgstr "طريقة الدفع:"
+
+#: templates/order/confirm.php:66
+msgid "Status:"
+msgstr "الحالة:"
+
+#: inc/user/class-lp-profile.php:846 inc/user/class-lp-profile.php:880
+#: inc/lp-deprecated.php:373 inc/lp-deprecated.php:404
+#: inc/user-item/class-lp-user-item.php:567
+msgid "Finished"
+msgstr "منتهية"
+
+#: templates/content-quiz/buttons/hint.php:21
+msgid "Hint"
+msgstr "تلميح"
+
+#: inc/class-lp-breadcrumb.php:388
+msgid "Search results for &ldquo;%s&rdquo;"
+msgstr "نتائج البحث عن &ldquo;%s&rdquo;"
+
+#: inc/order/lp-order-functions.php:737
+msgctxt "Order status"
+msgid "Failed"
+msgstr "فشل"
+
+#: inc/order/lp-order-functions.php:742
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "فشل <span class=\"count\">(%s)</span>"
+msgstr[1] "فشل <span class=\"count\">(%s)</span>"
+msgstr[2] "فشل <span class=\"count\">(%s)</span>"
+msgstr[3] "فشل <span class=\"count\">(%s)</span>"
+msgstr[4] "فشل <span class=\"count\">(%s)</span>"
+msgstr[5] "فشل <span class=\"count\">(%s)</span>"
+
+#: inc/class-lp-checkout.php:267 inc/class-lp-checkout.php:276
+#: inc/class-lp-checkout.php:315
+msgid "Error %d: Unable to create order. Please try again."
+msgstr "خطأ %d: غير قادر على إنشاء الطلب. الرجاء المحاولة مرة أخرى."
+
+#: templates/widgets/course-info/default.php:29
+#: inc/custom-post-types/lesson.php:182 inc/custom-post-types/lesson.php:183
+#: inc/custom-post-types/lesson.php:186
+msgid "Lessons"
+msgstr "الدروس"
+
+#: inc/course/abstract-course.php:502
+msgid "No student enrolled"
+msgstr "لا يوجد أي طالب ملتحق"
+
+#: inc/custom-post-types/course.php:807
+msgid "This course is free."
+msgstr "هذة الدورة مجانية."
+
+#: templates/checkout/review-order.php:130 templates/order/order-details.php:81
+msgid "Subtotal"
+msgstr "المجموع"
+
+#: inc/custom-post-types/order.php:634
+msgid "Processing..."
+msgstr "قيد المعالجة..."
+
+#: inc/updates/_update-from-0.9.php:1197 inc/updates/_update-from-0.9.php:1219
+#: inc/custom-post-types/question.php:166
+msgid "Add New Tag"
+msgstr "أضف وسماً جديداً"
+
+#: inc/custom-post-types/question.php:195
+msgid "No questions found"
+msgstr "ﻻ توجد أسئلة"
+
+#: inc/admin/lp-admin-functions.php:255 inc/admin/class-lp-admin-ajax.php:845
+#: inc/admin/class-lp-admin-ajax.php:1024
+msgid "View Page"
+msgstr "عرض الصفحة"
+
+#: templates/checkout/form-login.php:103 inc/class-lp-assets.php:62
+#: inc/class-lp-install.php:516 inc/admin/class-lp-admin.php:245
+#: inc/admin/class-lp-admin-ajax.php:895 inc/lp-core-functions.php:2289
+#: inc/lp-core-functions.php:3382 inc/order/class-lp-order.php:936
+#: inc/custom-post-types/course.php:864
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: inc/admin/sub-menus/class-lp-submenu-addons.php:15
+#: inc/class-lp-multi-language.php:54
+msgid "Add-ons"
+msgstr "الملحقات"
+
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:15
+msgid "Statistics"
+msgstr "الإحصائيات"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:341
+msgid "By %s"
+msgstr "بواسطة %s"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:455
+#: inc/order/class-lp-order.php:148 inc/user-item/class-lp-user-item.php:159
+#: inc/custom-post-types/order.php:837
+msgid "%s ago"
+msgstr "منذ %s"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:461
+msgctxt "Active plugin installs"
+msgid "1+ Million"
+msgstr "+1 مليون"
+
+#: inc/admin/class-lp-upgrader.php:26
+msgid "Could not create directory."
+msgstr "تعذر إنشاء الدليل."
+
+#: inc/admin/class-lp-upgrader.php:22
+msgid "Download failed."
+msgstr "فشل التحميل."
+
+#: inc/admin/class-lp-upgrader.php:14
+msgid "Filesystem error."
+msgstr "خطأ نظام الملفات."
+
+#: inc/admin/class-lp-upgrader.php:13
+msgid "Could not access filesystem."
+msgstr "تعذر الوصول لنظام الملفات."
+
+#: inc/admin/class-lp-upgrader.php:15
+msgid "Unable to locate WordPress Root directory."
+msgstr "غير قادر على إيجاد مجلد الووردبريس الجذر."
+
+#: inc/admin/class-lp-upgrader.php:17
+msgid "Unable to locate WordPress Plugin directory."
+msgstr "غير قادر على إيجاد مجلد إضافات الووردبريس."
+
+#: inc/admin/class-lp-upgrader.php:16
+msgid "Unable to locate WordPress Content directory (wp-content)."
+msgstr "غير قادر على إيجاد مجلد محتوى الووردبريس (wp-content)."
+
+#: inc/admin/class-lp-upgrader.php:18
+msgid "Unable to locate WordPress Theme directory."
+msgstr "غير قادر على إيجاد مجلد قوالب الووردبريس."
+
+#: inc/admin/class-lp-upgrader.php:23
+msgid "Installing the latest version&#8230;"
+msgstr "جاري تنصيب أحدث نسخة&#8230;"
+
+#: inc/admin/views/statistics/general.php:60
+#: inc/admin/views/statistics/courses.php:43
+msgid "Public"
+msgstr "عام"
+
+#: inc/class-lp-install.php:516
+msgid "Ok"
+msgstr "موافق"
+
+#: inc/admin/class-lp-admin-ajax.php:920
+msgid "View courses"
+msgstr "عرض الدورات"
+
+#: inc/lp-template-functions.php:1330 inc/user/class-lp-profile.php:299
+#: inc/admin/settings/class-lp-settings-profile.php:149
+#: inc/admin/settings/class-lp-settings-profile.php:274
+#: inc/admin/settings/class-lp-settings-courses.php:12
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:21
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:28
+#: inc/admin/class-lp-admin.php:307 inc/admin/lp-admin-actions.php:206
+#: inc/admin/views/tools/course/html-user.php:30
+#: inc/admin/views/setup/steps/pages.php:22
+#: inc/custom-post-types/course.php:132 inc/custom-post-types/course.php:134
+msgid "Courses"
+msgstr "الدورات"
+
+#: inc/admin/lp-admin-functions.php:857
+#: inc/admin/views/statistics/general.php:9
+#: inc/admin/views/statistics/users.php:9
+#: inc/admin/views/statistics/users.php:46
+#: inc/admin/views/statistics/courses.php:9
+#: inc/admin/views/statistics/orders.php:9
+msgid "Instructors"
+msgstr "المدربين"
+
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:37
+msgid "Email subject"
+msgstr "موضوع البريد"
+
+#: inc/admin/views/settings/fields/image-size.php:18
+msgid "Crop?"
+msgstr "قص؟"
+
+#: inc/admin/views/meta-boxes/order/details.php:174
+msgid "Add Item"
+msgstr "إضافة عنصر"
+
+#: inc/admin/views/question/answer.php:18
+#: inc/admin/views/quiz/question-answer.php:19
+msgid "Answer Text"
+msgstr "نص الإجابة"
+
+#: inc/admin/views/meta-boxes/order/details.php:138
+msgid "No order items"
+msgstr "لا يوجد عناصر طلب"
+
+#: inc/admin/views/meta-boxes/order/details.php:25
+msgid "Order %s"
+msgstr "الطلب %s"
+
+#: inc/lp-template-functions.php:2680
+#: inc/admin/settings/class-lp-settings-courses.php:150
+#: inc/lp-core-functions.php:376 inc/course/lp-course-functions.php:581
+#: inc/custom-post-types/lesson.php:184
+msgid "Lesson"
+msgstr "درس"
+
+#: inc/admin/lp-admin-functions.php:1032 inc/admin/lp-admin-functions.php:2127
+#: inc/admin/views/statistics/general.php:62
+#: inc/admin/views/statistics/courses.php:45
+msgid "Paid"
+msgstr "مدفوع"
+
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:63
+#: inc/emails/class-lp-email-new-course.php:28
+#: inc/emails/class-lp-email-new-course.php:35
+msgid "New course"
+msgstr "دورة جديدة"
+
+#: inc/admin/views/settings/payments.php:27
+msgid "Basic"
+msgstr "أساسي"
+
+#: inc/admin/views/settings/payments.php:68
+#: inc/admin/views/setup/setup-paypal.php:34
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:526
+msgid "Sandbox Mode"
+msgstr "وضع Sandbox"
+
+#: inc/admin/views/settings/payments.php:76
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:542
+msgid "Sandbox Email Address"
+msgstr "عنوان بريد Sandbox"
+
+#: inc/admin/views/settings/payments.php:85
+msgid "Sandbox API Username"
+msgstr "إسم مستخدم Sandbox API"
+
+#: inc/admin/views/settings/payments.php:93
+msgid "Sandbox API Password"
+msgstr "كلمة مرور Sandbox API"
+
+#: inc/admin/views/settings/payments.php:101
+msgid "Sandbox API Signature"
+msgstr "توقيع Sandbox API "
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:18
+msgid "Rollback"
+msgstr "تراجع"
+
+#: inc/admin/views/setup/steps/finish.php:16
+#: inc/admin/views/updates/0.9/step-upgraded.php:2
+msgid "What's next?"
+msgstr "ما التالي؟"
+
+#: inc/admin/views/meta-boxes/order/details.php:239
+msgid "No results"
+msgstr "لا يوجد نتائج"
+
+#: inc/admin/lp-admin-functions.php:249
+msgid "Cancel [ESC]"
+msgstr "إلغاء [خروج]"
+
+#: inc/lp-template-functions.php:569 inc/admin/views/course/curriculum.php:15
+msgid "Curriculum"
+msgstr "منهاج"
+
+#: inc/admin/lp-admin-functions.php:862
+#: inc/admin/views/statistics/general.php:8
+#: inc/admin/views/statistics/users.php:8
+#: inc/admin/views/statistics/users.php:47
+#: inc/admin/views/statistics/courses.php:8
+#: inc/admin/views/statistics/orders.php:8
+#: inc/admin/views/tools/course/html-course.php:30
+#: inc/custom-post-types/course.php:1298 inc/custom-post-types/course.php:1305
+msgid "Students"
+msgstr "الطلاب"
+
+#: inc/admin/sub-menus/class-lp-submenu-addons.php:16
+msgid "LearnPress Add-ons"
+msgstr "ملحقات LearnPress"
+
+#: inc/admin/views/statistics/general.php:36
+#: inc/admin/views/statistics/users.php:22
+#: inc/admin/views/statistics/courses.php:21
+#: inc/admin/views/statistics/orders.php:22
+msgid "Last 30 Days"
+msgstr "آخر 30 يوم"
+
+#: inc/admin/views/statistics/general.php:40
+#: inc/admin/views/statistics/users.php:26
+#: inc/admin/views/statistics/courses.php:24
+#: inc/admin/views/statistics/orders.php:25
+msgid "Last 12 Months"
+msgstr "آخر 12 شهر"
+
+#: inc/admin/views/statistics/general.php:33
+#: inc/admin/views/statistics/users.php:19
+#: inc/admin/views/statistics/courses.php:18
+#: inc/admin/views/statistics/orders.php:19
+msgid "Last 7 Days"
+msgstr "آخر 7 أيام"
+
+#: inc/admin/settings/class-lp-settings-profile.php:89
+msgid "Target link"
+msgstr "رابط الهدف"
+
+#: inc/admin/settings/class-lp-settings-payments.php:127
+msgid "Endpoints"
+msgstr "نقاط النهاية"
+
+#: inc/admin/settings/class-lp-settings-profile.php:65
+msgid "Add link to admin bar"
+msgstr "أضف رابط إلى شريط المسؤول"
+
+#: inc/admin/settings/class-lp-settings-pages.php:28
+msgid "Become a teacher"
+msgstr "كن مُعلمًا"
+
+#: inc/admin/settings/class-lp-settings-general.php:78
+#: inc/admin/views/setup/steps/currency.php:56
+msgid "Decimals Separator"
+msgstr "فاصل الكسور العشرية"
+
+#: inc/admin/settings/class-lp-settings-courses.php:126
+msgid "Single course"
+msgstr "دورة وحيدة"
+
+#: inc/admin/settings/class-lp-settings-profile.php:59
+msgid "Profile page"
+msgstr "صفحة الملف الشخصي"
+
+#: inc/admin/settings/class-lp-settings-pages.php:45
+msgid "Instructors registration"
+msgstr "تسجيل المدربين"
+
+#: inc/admin/settings/class-lp-settings-courses.php:24
+#: inc/custom-post-types/course.php:145
+msgctxt "slug"
+msgid "courses"
+msgstr "courses"
+
+#: inc/admin/meta-box/fields/course-permalink.php:36
+#: inc/admin/settings/class-lp-settings-courses.php:38
+#: inc/admin/views/settings/fields/course-permalink.php:14
+msgctxt "default-slug"
+msgid "courses"
+msgstr "courses"
+
+#: inc/admin/settings/class-lp-settings-courses.php:104
+msgid "Courses Page"
+msgstr "صفحة الدورات"
+
+#: inc/admin/settings/class-lp-settings-pages.php:46
+msgid "Create option for instructors registration."
+msgstr "إنشاء خيار لتسجيل المدربين."
+
+#: inc/lp-template-functions.php:2341
+#: inc/admin/settings/class-lp-settings-checkout.php:76
+#: inc/admin/settings/class-lp-settings-payments.php:131
+msgid "Order received"
+msgstr "طلب وارد"
+
+#: inc/admin/settings/class-lp-settings-courses.php:144
+msgid "Single course permalink"
+msgstr "رابط الدورة الوحيدة الثابت"
+
+#: inc/admin/settings/class-lp-settings-courses.php:132
+msgid "Course category base"
+msgstr "قاعدة تصنيف الدورة"
+
+#: inc/admin/settings/class-lp-settings-courses.php:138
+msgid "Course tag base"
+msgstr "قاعدة وسم الدورة"
+
+#: inc/admin/settings/class-lp-settings-checkout.php:66
+#: inc/admin/settings/class-lp-settings-payments.php:81
+msgid "Checkout page"
+msgstr "صفحة السحب"
+
+#: inc/admin/pointers/pointers.php:66
+msgid "Course Curriculum"
+msgstr "منهاج المادة"
+
+#: inc/lp-core-functions.php:2573
+msgid "Enable cart"
+msgstr "تمكين سلة المشتريات"
+
+#: inc/admin/lp-admin-functions.php:1458
+msgid "The user %s has become a teacher"
+msgstr "العضو %s أصبح معلماً"
+
+#: inc/admin/lp-admin-functions.php:1520
+msgid "Import now"
+msgstr "إستيراد الآن"
+
+#: inc/admin/lp-admin-functions.php:1521
+msgid "No, thanks!"
+msgstr "لا، شكراً!"
+
+#: inc/admin/lp-admin-functions.php:1518
+msgid "LearnPress Import/Export"
+msgstr "LearnPress إستيراد/تصدير"
+
+#: inc/admin/lp-admin-functions.php:1516
+msgid "You haven't got any courses yet! Would you like to import sample data?"
+msgstr "لا تمتلك إي دورات بعد! هل ترغب في تصدير بيانات عينية؟"
+
+#: inc/admin/lp-admin-functions.php:1519
+msgid "but don't worry because it is completely automated."
+msgstr "لكن لا تقلق لأن العملية آلية بالكامل."
+
+#: inc/admin/lp-admin-functions.php:1257
+msgid "Free Courses / Priced Courses"
+msgstr "الدورات المجانية / الدورات المدفوعة"
+
+#: inc/admin/lp-admin-functions.php:32
+msgid "Duplicate this course"
+msgstr "تكرير هذة الدورة"
+
+#: templates/profile/tabs/quizzes.php:37 templates/profile/tabs/courses.php:32
+#: templates/profile/tabs/courses/purchased.php:38
+#: templates/checkout/review-order.php:32
+#: templates/emails/order-items-table.php:66
+#: templates/order/order-details.php:28
+#: inc/admin/meta-box/fields/course-permalink.php:47
+#: inc/admin/lp-admin-functions.php:44
+#: inc/admin/sub-menus/class-lp-submenu-tools.php:22
+#: inc/admin/views/statistics/orders.php:47
+#: inc/admin/views/settings/fields/course-permalink.php:31
+#: inc/custom-post-types/quiz.php:382 inc/custom-post-types/abstract.php:561
+msgid "Course"
+msgstr "دورة"
+
+#: inc/admin/lp-admin-functions.php:1256
+msgid "Pending Courses / Publish Courses"
+msgstr "الدورات المعلقة / الدورات المنشورة"
+
+#: inc/admin/settings/class-lp-settings-payments.php:28
+#: inc/admin/settings/class-lp-settings-payments.php:143
+msgid "Payments"
+msgstr "الدُفعات"
+
+#: inc/admin/lp-admin-functions.php:183
+msgid "[ Add a new page ]"
+msgstr "[ أضف صفحة جديدة ]"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:425
+msgid "Not Install"
+msgstr "غير مثبت"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:376
+msgctxt "plugin"
+msgid "Enabled"
+msgstr "ممكن"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:378
+msgctxt "plugin"
+msgid "Enable"
+msgstr "تمكين"
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/class-lp-plugin-install-list-table.php:362
+msgid "Install and Active"
+msgstr "تثبيت وتفعيل"
+
+#. Plugin Name of the plugin
+#: inc/admin/class-lp-admin-menu.php:90
+#: inc/admin/settings/class-lp-settings-emails.php:161
+#: inc/admin/lp-admin-functions.php:1599 inc/admin/class-lp-admin.php:122
+#: inc/admin/class-lp-admin.php:124 inc/class-lp-gdpr.php:31
+msgid "LearnPress"
+msgstr "LearnPress"
+
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:15
+msgid "LearnPress Settings"
+msgstr "إعدادات LearnPress"
+
+#: inc/admin/class-lp-admin-menu.php:89
+msgid "Learning Management System"
+msgstr "نظام إدارة التعليم"
+
+#: inc/admin/class-lp-modal-search-items.php:249
+#: inc/admin/class-lp-modal-search-users.php:184
+msgid "No item found"
+msgstr "لم يتم العثور على عنصر"
+
+#: inc/admin/class-lp-admin-ajax.php:646
+msgid "Permission denied"
+msgstr "الوصول مرفوض"
+
+#: inc/admin/views/meta-boxes/course/review-log.php:51
+msgid "Message to Instructor"
+msgstr "رسالة إلى المدرب"
+
+#: inc/admin/views/meta-boxes/course/review-log.php:34
+#: inc/admin/views/meta-boxes/course/review-log.php:42
+msgid "Message to Reviewer"
+msgstr "رسالة إلى المراجع"
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:1
+msgid "Update Database"
+msgstr "تحديث قاعدة البيانات"
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:14
+msgid "Updating! Please do not close this page until the work is done"
+msgstr "جاري التحديث! الرجاء عدم إغلاق هذه الصفحة حتى يكتمل العمل"
+
+#: inc/admin/views/meta-boxes/order/details.php:188
+msgid "Customer Note"
+msgstr "ملاحظة العميل"
+
+#: inc/admin/views/meta-boxes/order/details.php:236
+msgid "Type here to search the course"
+msgstr "أكتب هنا للبحث عن المادة"
+
+#: inc/custom-post-types/order.php:876
+msgid "Pay via <strong>%s</strong>"
+msgstr "الدفع بواسطة <strong>%s</strong>"
+
+#: inc/admin/views/meta-boxes/course/review-logs.php:40
+msgid "View less"
+msgstr "عرض أقل"
+
+#: inc/admin/views/meta-boxes/course/review-logs.php:25
+msgid "Submit for review"
+msgstr "تقديم للمراجعة"
+
+#: inc/admin/views/course/section.php:38
+msgid "Describe about this section"
+msgstr "وصف حول هذا القسم"
+
+#: inc/admin/views/meta-boxes/order/details.php:120
+msgid "Order Items"
+msgstr "عناصر الطلب"
+
+#: inc/class-lp-gdpr.php:155
+msgid "Order status"
+msgstr "حالة الطلب"
+
+#: inc/admin/meta-box/fields/course-permalink.php:52
+#: inc/admin/views/settings/fields/course-permalink.php:36
+msgid "Courses base"
+msgstr "قاعدة الدورات"
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:7
+#: inc/admin/views/updates/0.9/step-repair-database.php:10
+msgid "Update post meta"
+msgstr "تحديث ميتا المقالة"
+
+#: inc/admin/views/updates/0.9/step-repair-database.php:4
+msgid "Update custom post type"
+msgstr "تحديث نوع المقال المخصص"
+
+#: inc/admin/meta-box/fields/course-permalink.php:37
+#: inc/admin/views/settings/fields/course-permalink.php:15
+msgctxt "default-slug"
+msgid "course"
+msgstr "course"
+
+#: inc/admin/settings/class-lp-settings-emails.php:114
+#: inc/admin/views/settings/emails/general.php:17
+msgid "The following options affect the sender (email address and name) used in LearnPress emails."
+msgstr "الخيارات التالية تؤثر على المرسل (عنوان وإسم البريد الإلكتروني) المستخدمة في رسائل البريد الإلكتروني LearnPress."
+
+#: inc/admin/meta-box/fields/course-permalink.php:57
+#: inc/admin/views/settings/fields/course-permalink.php:41
+msgid "Courses base with category"
+msgstr "قاعدة الدورات مع التصنيف"
+
+#: inc/lp-core-functions.php:2580
+msgid "Add to cart redirect"
+msgstr "أضف إلى سلة المشتريات مباشرةً"
+
+#: inc/lp-core-functions.php:2587
+msgid "AJAX add to cart"
+msgstr "إضافة الى سلة المشتريات بواسطة AJAX"
+
+#: inc/lp-core-functions.php:2594
+msgid "Cart page"
+msgstr "صفحة سلة المشتريات"
+
+#: inc/admin/lp-admin-functions.php:253 inc/admin/class-lp-admin-ajax.php:844
+#: inc/admin/class-lp-admin-ajax.php:1022
+msgid "Edit Page"
+msgstr "تعديل الصفحة"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:296
+msgctxt "Plugin installer group title"
+msgid "Performance"
+msgstr "الأداء"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:297
+msgctxt "Plugin installer group title"
+msgid "Social"
+msgstr "إجتماعي"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:298
+msgctxt "Plugin installer group title"
+msgid "Tools"
+msgstr "الأدوات"
+
+#. translators: 1: Plugin name and version.
+#: inc/admin/helpers/class-lp-plugins-helper.php:238
+#: inc/admin/class-lp-plugin-install-list-table.php:362
+msgid "Install %s now"
+msgstr "تثبيت %s الآن"
+
+#. translators: 1: Plugin name and version
+#: inc/admin/helpers/class-lp-plugins-helper.php:245
+#: inc/admin/class-lp-plugin-install-list-table.php:369
+msgid "Update %s now"
+msgstr "تحديث %s الآن"
+
+#. translators: 1: Plugin name and version
+#: inc/admin/helpers/class-lp-plugins-helper.php:245
+#: inc/admin/class-lp-plugin-install-list-table.php:369
+#: inc/admin/views/updates/0.9/step-repair-database.php:17
+#: inc/admin/views/updates/html-update-message.php:17
+msgid "Update Now"
+msgstr "تحديث الآن"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:420
+msgid "Enabled"
+msgstr "مُمكن"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:422
+msgid "Disabled"
+msgstr "مُعطل"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:454
+msgid "Last Updated:"
+msgstr "آخر تحديث:"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:465
+msgid "%s Active Installs"
+msgstr "%s عمليات التثبيت النشطة"
+
+#: inc/admin/lp-admin-functions.php:206
+msgid "Select Page"
+msgstr "تحديد صفحة"
+
+#: inc/admin/lp-admin-functions.php:223
+msgid "Select a page&hellip;"
+msgstr "تحديد صفحة &hellip;"
+
+#: inc/user/class-lp-profile.php:330
+#: inc/admin/settings/class-lp-settings-profile.php:54
+#: inc/admin/settings/class-lp-settings-courses.php:66
+#: inc/admin/settings/class-lp-settings-checkout.php:36
+#: inc/admin/settings/class-lp-settings-general.php:16
+#: inc/admin/settings/class-lp-settings-general.php:40
+#: inc/admin/settings/class-lp-settings-payments.php:55
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:26
+#: inc/custom-post-types/course.php:578
+msgid "General"
+msgstr "عام"
+
+#: inc/admin/settings/class-lp-settings-pages.php:16
+msgid "Pages"
+msgstr "الصفحات"
+
+#: inc/admin/class-lp-setup-wizard.php:225
+#: inc/admin/settings/class-lp-settings-emails.php:26
+#: inc/admin/settings/class-lp-settings-emails.php:166
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#: templates/widgets/course-info/default.php:44
+#: inc/user/class-lp-profile.php:813 inc/user/class-lp-profile.php:845
+#: inc/user/class-lp-profile.php:879 inc/admin/lp-admin-functions.php:852
+#: inc/admin/lp-admin-functions.php:1017 inc/admin/lp-admin-functions.php:1219
+#: inc/admin/lp-admin-functions.php:2112 inc/admin/lp-admin-actions.php:60
+#: inc/admin/views/statistics/general.php:43
+#: inc/admin/views/statistics/general.php:59
+#: inc/admin/views/statistics/users.php:29
+#: inc/admin/views/statistics/users.php:45
+#: inc/admin/views/statistics/courses.php:27
+#: inc/admin/views/statistics/courses.php:42
+#: inc/admin/views/statistics/orders.php:28
+#: inc/admin/views/statistics/orders.php:62 inc/lp-deprecated.php:370
+#: inc/lp-deprecated.php:402 inc/libraries/meta-box/inc/fields/select.php:92
+msgid "All"
+msgstr "الكل"
+
+#: inc/user/class-lp-profile.php:814 inc/admin/lp-admin-functions.php:1022
+#: inc/admin/lp-admin-functions.php:2117
+#: inc/admin/views/meta-boxes/course/review-logs.php:25
+msgid "Publish"
+msgstr "نشر"
+
+#: inc/user/class-lp-profile.php:815 inc/admin/lp-admin-functions.php:1027
+#: inc/admin/lp-admin-functions.php:1229 inc/admin/lp-admin-functions.php:2122
+#: inc/admin/views/statistics/general.php:61
+#: inc/admin/views/statistics/courses.php:44
+#: inc/admin/views/statistics/orders.php:64
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: templates/content-lesson/button-complete.php:36
+#: inc/admin/lp-admin-functions.php:1224
+#: inc/admin/views/statistics/orders.php:63 inc/class-lp-gdpr.php:425
+#: inc/user-item/class-lp-user-item-quiz.php:107
+#: inc/user-item/class-lp-user-item.php:566
+msgid "Completed"
+msgstr "مُكتمل"
+
+#: inc/admin/lp-admin-functions.php:1425
+msgid "Installed"
+msgstr "مُثبت"
+
+#: inc/admin/views/meta-boxes/course/review-log.php:31
+msgid "Submit for Review"
+msgstr "تقديم للمراجعة"
+
+#: inc/admin/settings/class-lp-settings-checkout.php:72
+msgid "Checkout Endpoints"
+msgstr "سحب نقاط النهاية"
+
+#: inc/admin/settings/class-lp-settings-courses.php:99
+msgid "Archive"
+msgstr "أرشيف"
+
+#: inc/admin/settings/class-lp-settings-emails.php:64
+msgid "General options"
+msgstr "الخيارات العامة"
+
+#: inc/admin/class-lp-setup-wizard.php:211
+#: inc/admin/settings/class-lp-settings-general.php:52
+#: inc/admin/settings/class-lp-settings-general.php:57
+#: inc/admin/views/setup/steps/currency.php:17
+#: inc/admin/views/setup/steps/currency.php:21
+msgid "Currency"
+msgstr "العملة"
+
+#: inc/admin/settings/class-lp-settings-general.php:65
+#: inc/admin/views/setup/steps/currency.php:37
+msgid "Currency position"
+msgstr "مكان العملة"
+
+#: inc/admin/settings/class-lp-settings-general.php:72
+#: inc/admin/views/setup/steps/currency.php:51
+msgid "Thousands Separator"
+msgstr "فاصلة الآلاف"
+
+#: inc/admin/settings/class-lp-settings-general.php:84
+#: inc/admin/views/setup/steps/currency.php:61
+msgid "Number of Decimals"
+msgstr "عدد الكسور العشرية"
+
+#: inc/admin/settings/class-lp-settings-advanced.php:212
+msgid "Debug mode"
+msgstr "وضع تصحيح الأخطاء"
+
+#: inc/admin/settings/class-lp-settings-profile.php:22
+#: inc/admin/class-lp-admin.php:308 inc/admin/views/setup/steps/pages.php:31
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: templates/profile/tabs/quizzes.php:38 inc/lp-template-functions.php:2670
+#: inc/admin/settings/class-lp-settings-courses.php:157
+#: inc/lp-core-functions.php:377 inc/course/lp-course-functions.php:582
+#: inc/custom-post-types/question.php:337 inc/custom-post-types/quiz.php:92
+msgid "Quiz"
+msgstr "الإختبار"
+
+#: inc/admin/settings/class-lp-settings-profile.php:71
+msgid "Text link"
+msgstr "نص الرابط"
+
+#: inc/admin/sub-menus/class-lp-submenu-settings.php:95
+msgid "Save settings"
+msgstr "حفظ الإعدادات"
+
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:27
+msgid "Users"
+msgstr "الأعضاء"
+
+#: inc/user/class-lp-profile.php:312
+#: inc/admin/settings/class-lp-settings-profile.php:165
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:22
+#: inc/admin/sub-menus/class-lp-submenu-statistics.php:29
+#: inc/class-lp-gdpr.php:165 inc/custom-post-types/order.php:903
+#: inc/custom-post-types/order.php:904 inc/custom-post-types/order.php:908
+msgid "Orders"
+msgstr "الطلبات"
+
+#: inc/admin/class-lp-modal-search-items.php:59
+#: inc/admin/class-lp-modal-search-users.php:49
+#: inc/admin/views/quiz/modal-choose-items.php:90
+#: inc/admin/views/course/modal-choose-items.php:101
+msgid "Add"
+msgstr "أضف"
+
+#: inc/admin/class-lp-modal-search-items.php:60
+#: inc/admin/class-lp-modal-search-users.php:50
+#: inc/admin/views/quiz/modal-choose-items.php:60
+#: inc/admin/views/course/modal-choose-items.php:72
+#: inc/admin/views/meta-boxes/order/details.php:242
+msgid "Close"
+msgstr "إغلاق"
+
+#: inc/custom-post-types/question.php:191 inc/custom-post-types/lesson.php:188
+#: inc/custom-post-types/order.php:910 inc/custom-post-types/course.php:137
+msgid "Add New"
+msgstr "أضف جديد"
+
+#: templates/profile/tabs/settings/avatar.php:60
+#: inc/admin/views/tools/database/html-remove-outdated-data.php:23
+#: inc/admin/views/tools/database/html-remove-database.php:23
+#: inc/libraries/meta-box/inc/fields/file-input.php:45
+msgid "Remove"
+msgstr "إزالة"
+
+#: inc/admin/meta-box/fields/color-schema.php:106
+#: inc/admin/views/meta-boxes/course/review-logs.php:31
+#: inc/libraries/meta-box/inc/fields/autocomplete.php:23
+#: inc/libraries/meta-box/inc/fields/autocomplete.php:85
+#: inc/libraries/meta-box/inc/fields/autocomplete.php:97
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/admin/views/meta-boxes/course/review-logs.php:42
+msgid "View all"
+msgstr "عرض الكل"
+
+#: templates/content-lesson/no-content.php:22
+#: inc/admin/class-lp-install-sample-data.php:132 inc/attributes/course.php:232
+#: inc/custom-post-types/question.php:374
+#: inc/custom-post-types/abstract.php:585
+msgid "Edit"
+msgstr "تعديل"
+
+#: inc/admin/views/meta-boxes/order/actions.php:29
+msgid "Delete Permanently"
+msgstr "الحذف بشكل نهائي"
+
+#: inc/admin/views/meta-boxes/order/actions.php:31
+msgid "Move to Trash"
+msgstr "نقل الى سلة المهملات"
+
+#: inc/admin/class-lp-admin-assets.php:25
+#: inc/emails/class-lp-email-cancelled-order-guest.php:27
+#: inc/emails/class-lp-email-processing-order-guest.php:27
+#: inc/emails/class-lp-email-new-order-guest.php:27
+#: inc/emails/class-lp-email-completed-order-guest.php:29
+msgid "Guest"
+msgstr "ضيف"
+
+#: templates/checkout/order-received.php:35
+#: inc/admin/views/meta-boxes/order/details.php:125
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:436
+#: inc/custom-post-types/course.php:105
+msgid "Item"
+msgstr "عنصر"
+
+#: inc/admin/views/meta-boxes/order/details.php:126
+msgid "Cost"
+msgstr "التكلفة"
+
+#: templates/emails/order-items-table.php:67
+#: inc/admin/views/meta-boxes/order/details.php:127
+msgid "Quantity"
+msgstr "الكمية"
+
+#: inc/admin/views/meta-boxes/order/details.php:128
+msgid "Amount"
+msgstr "مقدار"
+
+#: inc/admin/views/meta-boxes/order/details.php:144
+msgid "Sub Total"
+msgstr "حاصل الجمع"
+
+#: templates/profile/tabs/orders/list.php:35
+#: templates/checkout/order-received.php:68
+#: templates/checkout/review-order.php:33
+#: templates/checkout/review-order.php:162
+#: templates/emails/order-items-table.php:96
+#: templates/emails/plain/order-items-table.php:60
+#: templates/order/order-details.php:29 templates/order/order-details.php:85
+#: inc/admin/views/meta-boxes/order/details.php:158
+#: inc/custom-post-types/order.php:772
+msgid "Total"
+msgstr "المجموع"
+
+#: inc/admin/views/meta-boxes/order/details.php:180
+msgid "Calculate Total"
+msgstr "حساب إجمالي"
+
+#: templates/content-quiz/intro.php:36
+#: inc/admin/views/quiz/modal-choose-items.php:57
+#: inc/admin/views/quiz/editor.php:16 inc/custom-post-types/question.php:188
+#: inc/custom-post-types/quiz.php:184 inc/custom-post-types/quiz.php:383
+msgid "Questions"
+msgstr "الأسئلة"
+
+#: inc/admin/meta-box/fields/course-permalink.php:92
+#: inc/admin/views/settings/fields/course-permalink.php:77
+msgid "Custom Base"
+msgstr "قاعدة مخصصة"
+
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:25
+#: inc/admin/views/settings/payments.php:17
+#: inc/admin/views/setup/setup-paypal.php:17
+#: inc/admin/views/setup/setup-stripe.php:3
+#: inc/emails/class-lp-email-rejected-course.php:119
+#: inc/emails/class-lp-email-new-course.php:131
+#: inc/emails/class-lp-email-user-order-completed.php:137
+#: inc/emails/class-lp-email-user-order-changed-status.php:136
+#: inc/emails/class-lp-email-published-course.php:122
+#: inc/emails/class-lp-email.php:996
+#: inc/emails/class-lp-email-updated-course.php:164
+#: inc/gateways/paypal/class-lp-gateway-paypal.php:500
+msgid "Enable"
+msgstr "تمكين"
+
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:33
+#: inc/emails/class-lp-email-rejected-course.php:125
+#: inc/emails/class-lp-email-new-course.php:154
+#: inc/emails/class-lp-email-user-order-completed.php:143
+#: inc/emails/class-lp-email-user-order-changed-status.php:142
+#: inc/emails/class-lp-email-published-course.php:128
+#: inc/emails/class-lp-email.php:1019
+#: inc/emails/class-lp-email-updated-course.php:170
+msgid "Subject"
+msgstr "الموضوع"
+
+#: inc/admin/views/settings/emails/become-a-teacher-request.php:41
+#: inc/lp-core-functions.php:1592
+msgid "Message"
+msgstr "الرسالة"
+
+#: inc/admin/views/settings/emails/email-template.php:6
+#: inc/admin/views/settings/emails/_email-template.php:3
+#: inc/emails/class-lp-email-rejected-course.php:159
+#: inc/emails/class-lp-email-new-course.php:188
+#: inc/emails/class-lp-email-user-order-completed.php:177
+#: inc/emails/class-lp-email-user-order-changed-status.php:176
+#: inc/emails/class-lp-email-published-course.php:162
+#: inc/emails/class-lp-email.php:1053
+#: inc/emails/class-lp-email-updated-course.php:204
+msgid "Email content"
+msgstr "محتوى البريد"
+
+#: inc/admin/views/settings/emails/email-template.php:13
+#: inc/admin/views/settings/emails/_email-template.php:11
+msgid "HTML template"
+msgstr "قالب HTML"
+
+#: inc/admin/views/settings/emails/email-template.php:14
+#: inc/admin/views/settings/emails/_email-template.php:12
+msgid "Plain text template"
+msgstr "قالب نص عادي"
+
+#: inc/admin/views/settings/emails/_email-template.php:68
+msgid "Delete template file"
+msgstr "حذف ملف القالب"
+
+#: inc/admin/views/settings/emails/_email-template.php:83
+msgid "Copy file to theme"
+msgstr "نسخ الملف إلى القالب"
+
+#: inc/emails/class-lp-email-rejected-course.php:142
+#: inc/emails/class-lp-email-new-course.php:171
+#: inc/emails/class-lp-email-user-order-completed.php:160
+#: inc/emails/class-lp-email-user-order-changed-status.php:159
+#: inc/emails/class-lp-email-published-course.php:145
+#: inc/emails/class-lp-email.php:1036
+#: inc/emails/class-lp-email-updated-course.php:187
+msgid "Heading"
+msgstr "توجيه"
+
+#: inc/admin/views/settings/emails/general.php:15
+msgid "Email Options"
+msgstr "خيارات البريد الإلكتروني"
+
+#: inc/admin/views/settings/emails/general.php:23
+msgid "From Name"
+msgstr "من الإسم"
+
+#: inc/admin/views/settings/emails/general.php:29
+msgid "From Email"
+msgstr "من البريد الإلكتروني"
+
+#: inc/admin/views/settings/emails/general.php:36
+msgid "Email Template"
+msgstr "قالب البريد الإلكتروني"
+
+#: inc/admin/settings/class-lp-settings-emails.php:159
+#: inc/admin/views/settings/emails/general.php:47
+msgid "Footer text"
+msgstr "نص ذيل الصفحة"
+
+#: inc/emails/class-lp-email-new-course.php:137
+#: inc/emails/class-lp-email.php:1002
+msgid "Recipient(s)"
+msgstr "المتلقين"
+
+#: inc/admin/meta-box/fields/course-permalink.php:42
+#: inc/admin/views/settings/fields/course-permalink.php:26
+msgid "Default"
+msgstr "إفتراضي"
+
+#: inc/admin/views/settings/payments.php:24 inc/admin/views/quiz/editor.php:30
+#: inc/custom-post-types/question.php:338
+msgid "Type"
+msgstr "النوع"
+
+#: inc/admin/views/settings/payments.php:28
+msgid "Security"
+msgstr "الأمن"
+
+#: inc/admin/views/settings/payments.php:33
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: inc/admin/views/settings/payments.php:42
+msgid "API Username"
+msgstr "أسم المستخدم API"
+
+#: inc/admin/views/settings/payments.php:49
+msgid "API Password"
+msgstr "كلمة مرور API"
+
+#: inc/admin/views/settings/payments.php:56
+msgid "API Signature"
+msgstr "توقيع API"
+
+#: inc/admin/views/settings/setting-field.php:108
+msgid "Hard Crop?"
+msgstr "قص شديد؟"
+
+#: inc/admin/views/statistics/general.php:47
+#: inc/admin/views/statistics/users.php:33
+#: inc/admin/views/statistics/courses.php:31
+#: inc/admin/views/statistics/orders.php:32
+msgid "From"
+msgstr "من"
+
+#: inc/admin/views/statistics/general.php:49
+#: inc/admin/views/statistics/users.php:35
+#: inc/admin/views/statistics/courses.php:33
+#: inc/admin/views/statistics/orders.php:34
+msgid "To"
+msgstr "إلى"
+
+#: inc/admin/views/statistics/general.php:53
+#: inc/admin/views/statistics/users.php:39
+#: inc/admin/views/statistics/courses.php:36
+#: inc/admin/views/statistics/orders.php:37
+msgid "Go"
+msgstr "اذهب"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:475
+#: inc/admin/views/addons/html-loop-plugin.php:59
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>متوافق</strong> مع نسخة ووردبريس الخاصة بك"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:473
+#: inc/admin/views/addons/html-loop-plugin.php:57
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>يتعارض</strong> مع نسخة ووردبريس الخاصة بك"
+
+#: inc/admin/class-lp-plugin-install-list-table.php:471
+#: inc/admin/views/addons/html-loop-plugin.php:55
+msgid "Untested with your version of WordPress"
+msgstr "لم يتم الإختبار مع نسخة ووردبريس الخاصة بك"
+
+#: inc/admin/class-lp-upgrader.php:12
+msgid "Invalid Data provided."
+msgstr "تم تقديم بيانات غير صحيحة."
+
+#: inc/admin/class-lp-upgrader.php:25
+msgid "Destination folder already exists."
+msgstr "المجلد الوجهة موجود بالفعل."
+
+#: inc/admin/class-lp-upgrader.php:27
+msgid "The package could not be installed."
+msgstr "لا يمكن تثبيت الحزمة."
+
+#: inc/admin/class-lp-upgrader.php:24
+msgid "The package contains no files."
+msgstr "لا تحتوي الحزمة على أي ملف."
+
+#: inc/admin/class-lp-upgrader.php:29
+msgid "Enabling Maintenance mode&#8230;"
+msgstr "تمكين وضع الصيانة&#8230;"
+
+#: inc/admin/class-lp-upgrader.php:30
+msgid "Disabling Maintenance mode&#8230;"
+msgstr "تعطيل وضع الصيانة&#8230;"
+
+#: inc/admin/views/settings/setting-field.php:96
+msgid "The settings of this image size have been disabled because its values are being overwritten by a filter."
+msgstr "تم تعطيل إعدادات حجم هذه الصورة ليتم كتابة قيمها من قبل المرشح."
+
+#: inc/admin/views/settings/emails/email-template.php:87
+#: inc/admin/views/settings/emails/_email-template.php:78
+msgid "To override and edit this email template copy <code>%s</code> to your theme folder: <code>%s</code>."
+msgstr "لتجاوز وتعديل قالب البريد الإلكتروني قم بنسخ <code>%s</code> الى مجلد القالب الخاص بك: <code>%s</code>."
+
+#: inc/admin/views/settings/emails/_email-template.php:63
+msgid "This template has been overridden by your theme and can be found in: <code>%s</code>."
+msgstr "تم تجاوز هذا القالب بواسطة القالب الخاص بك يمكنك إيجاده في: <code>%s</code>."
+
+#: inc/admin/lp-admin-functions.php:1037 inc/admin/lp-admin-functions.php:2132
+#: inc/admin/views/statistics/general.php:63
+#: inc/admin/views/statistics/courses.php:46 inc/course/abstract-course.php:673
+#: inc/custom-post-types/course.php:1376
+msgid "Free"
+msgstr "مجانية"
+
+#: inc/admin/settings/class-lp-settings-emails.php:151
+#: inc/admin/views/settings/emails/general.php:40
+msgid "Header image"
+msgstr "صورة الرأس"
+
+#: inc/admin/meta-box/fields/image-dimensions.php:32
+#: inc/admin/views/settings/fields/image-size.php:13
+msgid "px"
+msgstr "بكسل"
+
+#: inc/admin/views/meta-boxes/order/child-order.php:21
+#: inc/admin/views/meta-boxes/order/details.php:82
+#: inc/admin/views/meta-boxes/order/details.php:195
+#: inc/admin/views/meta-boxes/order/details.php:204
+msgid "Customer"
+msgstr "عميل"
+
+#: inc/admin/views/course/modal-choose-items.php:78
+msgid "Type here to search item"
+msgstr "اكتب هنا للبحث عن العناصر"
+
+#: inc/admin/settings/class-lp-settings-checkout.php:22
+#: inc/admin/class-lp-admin.php:246 inc/admin/class-lp-admin.php:309
+#: inc/admin/views/setup/steps/pages.php:40
+msgid "Checkout"
+msgstr "إنهاء الطلب"

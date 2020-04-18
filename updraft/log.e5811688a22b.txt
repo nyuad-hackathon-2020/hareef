@@ -1,0 +1,441 @@
+0000.000 (0) Opened log file at time: Sat, 18 Apr 2020 13:44:23 +0000 on http://nyuad.ananhany.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.4 PHP: 7.3.16 (cgi-fcgi, Linux giowm1009.siteground.biz 3.12.18-clouder0 #1 SMP Tue Oct 9 18:14:47 EEST 2018 x86_64) MySQL: 5.7.25-28-log WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 15.2M | 16M) multisite: N openssl: OpenSSL 1.1.1d FIPS  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 1357993.7 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.007 (0) Semaphore (fd, pop_options) being initialised
+0000.009 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.010 (0) Set semaphore last lock (fd) time to 2020-04-18 13:44:23
+0000.011 (0) Semaphore lock (fd) complete
+0000.014 (0) Backup run: resumption=0, nonce=e5811688a22b, file_nonce=e5811688a22b begun at=1587217463 (0s ago), job type=backup
+0000.015 (0) Scheduling a resumption (1) after 300 seconds (1587217763) in case this run gets aborted
+0000.046 (0) Checking if we have a zip executable available
+0000.047 (0) Testing: /usr/bin/zip
+0000.050 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.051 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.052 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.052 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.053 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.059 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.060 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.063 (0) Working binary zip found: /usr/bin/zip
+0000.064 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.065 (0) Creation of backups of directories: beginning
+0000.067 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.897 (0) Total entities for the zip file: 1439 directories, 8513 files (0 skipped as non-modified), 108.2 MB
+0000.906 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.909 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.913 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.917 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.921 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.922 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.1 MB, 8513 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.332 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: size is now: 1.90 MB
+0001.338 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 600 files added (on-disk size: 1994 KB)
+0001.342 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 700 files added (on-disk size: 1994 KB)
+0001.346 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 800 files added (on-disk size: 1994 KB)
+0001.350 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 900 files added (on-disk size: 1994 KB)
+0001.354 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1000 files added (on-disk size: 1994 KB)
+0001.355 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.7 MB, 8513 files batched, 501 (1002) added so far); re-opening (prior size: 1994 KB)
+0001.963 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: size is now: 4.70 MB
+0001.968 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1100 files added (on-disk size: 4848.2 KB)
+0001.973 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1200 files added (on-disk size: 4848.2 KB)
+0001.978 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1300 files added (on-disk size: 4848.2 KB)
+0001.982 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1400 files added (on-disk size: 4848.2 KB)
+0001.987 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1500 files added (on-disk size: 4848.2 KB)
+0001.988 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.2 MB, 8513 files batched, 501 (1503) added so far); re-opening (prior size: 4848.2 KB)
+0002.296 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1600 files added (on-disk size: 5404.4 KB)
+0002.303 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1700 files added (on-disk size: 5404.4 KB)
+0002.311 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1800 files added (on-disk size: 5404.4 KB)
+0002.315 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 1900 files added (on-disk size: 5404.4 KB)
+0002.320 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2000 files added (on-disk size: 5404.4 KB)
+0002.321 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.8 MB, 8513 files batched, 501 (2004) added so far); re-opening (prior size: 5404.4 KB)
+0002.629 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2100 files added (on-disk size: 6298.4 KB)
+0002.634 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2200 files added (on-disk size: 6298.4 KB)
+0002.638 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2300 files added (on-disk size: 6298.4 KB)
+0002.643 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2400 files added (on-disk size: 6298.4 KB)
+0002.647 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2500 files added (on-disk size: 6298.4 KB)
+0002.648 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.4 MB, 8513 files batched, 501 (2505) added so far); re-opening (prior size: 6298.4 KB)
+0002.750 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2600 files added (on-disk size: 6888.6 KB)
+0002.755 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2700 files added (on-disk size: 6888.6 KB)
+0002.760 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2800 files added (on-disk size: 6888.6 KB)
+0002.764 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 2900 files added (on-disk size: 6888.6 KB)
+0002.768 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3000 files added (on-disk size: 6888.6 KB)
+0002.769 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.8 MB, 8513 files batched, 501 (3006) added so far); re-opening (prior size: 6888.6 KB)
+0003.622 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: size is now: 11.10 MB
+0003.628 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3100 files added (on-disk size: 11375.2 KB)
+0003.632 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3200 files added (on-disk size: 11375.2 KB)
+0003.636 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3300 files added (on-disk size: 11375.2 KB)
+0003.641 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3400 files added (on-disk size: 11375.2 KB)
+0003.645 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3500 files added (on-disk size: 11375.2 KB)
+0003.646 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.1 MB, 8513 files batched, 501 (3507) added so far); re-opening (prior size: 11375.2 KB)
+0004.177 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: size is now: 14.30 MB
+0004.182 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3600 files added (on-disk size: 14660 KB)
+0004.187 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3700 files added (on-disk size: 14660 KB)
+0004.191 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3800 files added (on-disk size: 14660 KB)
+0004.195 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 3900 files added (on-disk size: 14660 KB)
+0004.200 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4000 files added (on-disk size: 14660 KB)
+0004.201 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.1 MB, 8513 files batched, 501 (4008) added so far); re-opening (prior size: 14660 KB)
+0004.763 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4100 files added (on-disk size: 16420.6 KB)
+0004.768 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4200 files added (on-disk size: 16420.6 KB)
+0004.772 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4300 files added (on-disk size: 16420.6 KB)
+0004.776 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4400 files added (on-disk size: 16420.6 KB)
+0004.780 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4500 files added (on-disk size: 16420.6 KB)
+0004.781 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 8513 files batched, 501 (4509) added so far); re-opening (prior size: 16420.6 KB)
+0005.142 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4600 files added (on-disk size: 17599 KB)
+0005.146 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4700 files added (on-disk size: 17599 KB)
+0005.151 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4800 files added (on-disk size: 17599 KB)
+0005.156 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 4900 files added (on-disk size: 17599 KB)
+0005.160 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5000 files added (on-disk size: 17599 KB)
+0005.161 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.6 MB, 8513 files batched, 501 (5010) added so far); re-opening (prior size: 17599 KB)
+0005.572 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5100 files added (on-disk size: 18852 KB)
+0005.577 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5200 files added (on-disk size: 18852 KB)
+0005.582 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5300 files added (on-disk size: 18852 KB)
+0005.586 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5400 files added (on-disk size: 18852 KB)
+0005.591 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5500 files added (on-disk size: 18852 KB)
+0005.592 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.3 MB, 8513 files batched, 501 (5511) added so far); re-opening (prior size: 18852 KB)
+0006.145 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5600 files added (on-disk size: 20607 KB)
+0006.149 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5700 files added (on-disk size: 20607 KB)
+0006.154 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5800 files added (on-disk size: 20607 KB)
+0006.158 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 5900 files added (on-disk size: 20607 KB)
+0006.165 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6000 files added (on-disk size: 20607 KB)
+0006.166 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.6 MB, 8513 files batched, 501 (6012) added so far); re-opening (prior size: 20607 KB)
+0006.861 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6100 files added (on-disk size: 23226.6 KB)
+0006.865 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6200 files added (on-disk size: 23226.6 KB)
+0006.869 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6300 files added (on-disk size: 23226.6 KB)
+0006.874 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6400 files added (on-disk size: 23226.6 KB)
+0006.878 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6500 files added (on-disk size: 23226.6 KB)
+0006.879 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.2 MB, 8513 files batched, 501 (6513) added so far); re-opening (prior size: 23226.6 KB)
+0007.371 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6600 files added (on-disk size: 23988.6 KB)
+0007.376 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6700 files added (on-disk size: 23988.6 KB)
+0007.381 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6800 files added (on-disk size: 23988.6 KB)
+0007.385 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 6900 files added (on-disk size: 23988.6 KB)
+0007.390 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7000 files added (on-disk size: 23988.6 KB)
+0007.391 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 8513 files batched, 501 (7014) added so far); re-opening (prior size: 23988.6 KB)
+0007.868 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7100 files added (on-disk size: 24930.7 KB)
+0007.872 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7200 files added (on-disk size: 24930.7 KB)
+0007.877 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7300 files added (on-disk size: 24930.7 KB)
+0007.881 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7400 files added (on-disk size: 24930.7 KB)
+0007.885 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7500 files added (on-disk size: 24930.7 KB)
+0007.886 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.5 MB, 8513 files batched, 501 (7515) added so far); re-opening (prior size: 24930.7 KB)
+0008.578 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7600 files added (on-disk size: 27157 KB)
+0008.583 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7700 files added (on-disk size: 27157 KB)
+0008.589 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7800 files added (on-disk size: 27157 KB)
+0008.594 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 7900 files added (on-disk size: 27157 KB)
+0008.598 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 8000 files added (on-disk size: 27157 KB)
+0008.599 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11 MB, 8513 files batched, 501 (8016) added so far); re-opening (prior size: 27157 KB)
+0009.504 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 8100 files added (on-disk size: 31434.1 KB)
+0009.509 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 8200 files added (on-disk size: 31434.1 KB)
+0009.513 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 8300 files added (on-disk size: 31434.1 KB)
+0009.517 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 8400 files added (on-disk size: 31434.1 KB)
+0009.522 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip.tmp: 8500 files added (on-disk size: 31434.1 KB)
+0010.543 (0) Created plugins zip (0) - 33494.2 KB in 10.5 s (3197.6 KB/s) (sha1: 097aa462bfc6aa780e8e7e582419a33c06783371, sha256: 4ae0f4291d59b23d69d6f95a5a7eb6d7b2c624dc4bc943c817c95c4e1e34bd12)
+0010.544 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.609 (0) Total entities for the zip file: 115 directories, 417 files (0 skipped as non-modified), 4.5 MB
+0010.613 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.617 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0010.621 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0010.625 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.917 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip.tmp: size is now: 1.00 MB
+0010.932 (0) Created themes zip (0) - 1025.5 KB in 0.4 s (2655.1 KB/s) (sha1: c59eeb9ebd2b6d65c7c39e3d5dc3c53ec1e70997, sha256: 882bf60b258937486de917fb875f61adbbb50371dece33db00cf30db520e6179)
+0010.934 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0010.934 (0) Looking for candidates to backup in: /home/customer/www/nyuad.ananhany.com/public_html/wp-content/uploads
+0010.935 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (1)
+0010.935 (0) finding files: woocommerce-placeholder.png: adding to list (2)
+0010.936 (0) finding files: ultimatemember: adding to list (3)
+0010.936 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (4)
+0010.937 (0) finding files: siteground-optimizer-assets: adding to list (5)
+0010.937 (0) finding files: woocommerce_uploads: adding to list (6)
+0010.937 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (7)
+0010.938 (0) finding files: wc-logs: adding to list (8)
+0010.938 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (9)
+0010.938 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (10)
+0010.939 (0) finding files: learn-press-logs: adding to list (11)
+0010.939 (0) finding files: 2020: adding to list (12)
+0010.940 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (13)
+0010.940 (0) finding files: elementor: adding to list (14)
+0010.940 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0010.951 (0) Total entities for the zip file: 10 directories, 274 files (0 skipped as non-modified), 35.4 MB
+0010.955 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.959 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.3 MB, 274 files batched, 195 (195) added so far); re-opening (prior size: 0 KB)
+0011.294 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-uploads.zip.tmp: size is now: 25.30 MB
+0011.296 (0) A useful amount of data was added after this amount of zip processing: 0.7 s (normalised: 0.7 s, rate: 37552.5 KB/s)
+0011.297 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.6886420249939, normalised_time=0.68171191307059, max_time=11.296627044678, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0011.299 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-uploads.zip.tmp: 200 files added (on-disk size: 25900.6 KB)
+0011.474 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-uploads.zip.tmp: size is now: 35.40 MB
+0011.890 (0) Created uploads zip (0) - 36291.7 KB in 0.9 s (38260.9 KB/s) (sha1: 1e145a6c7667454ae0e019030caa07347fb3e91c, sha256: 8ab5b6b279ac7638e5da5610da5b84654ededc48b7288cf825f5858ca72b8451)
+0011.891 (0) Beginning backup of other directories found in the content directory (index: 0)
+0011.892 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0011.893 (0) Looking for candidates to backup in: /home/customer/www/nyuad.ananhany.com/public_html/wp-content
+0011.893 (0) finding files: uploads: skipping: this is the uploads directory
+0011.894 (0) finding files: upgrade: skipping: excluded by options
+0011.894 (0) finding files: languages: adding to list (1)
+0011.894 (0) finding files: index.php: adding to list (2)
+0011.895 (0) finding files: updraft: skipping: this is the updraft directory
+0011.895 (0) finding files: plugins: skipping: this is the plugins directory
+0011.895 (0) finding files: themes: skipping: this is the themes directory
+0011.900 (0) Total entities for the zip file: 3 directories, 186 files (0 skipped as non-modified), 6.6 MB
+0011.903 (0) Zip: backup_2020-04-18-1344_Hareef_e5811688a22b-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.427 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-others.zip.tmp: size is now: 1.60 MB
+0012.450 (0) Created others zip (0) - 1669.1 KB in 0.6 s (3013.7 KB/s) (sha1: b610b073d0e12a0dba1fb21e12293ba44bed1c36, sha256: 9bca9fafd3f3c24d48bb473a4361062520e75268e5ebfde529b6229ad718c8d6)
+0012.453 (0) Saving backup status to database (elements: 8)
+0012.454 (0) Beginning creation of database dump (WordPress DB)
+0012.455 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0012.720 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `pop_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCR (truncated - 1246 bytes total)
+0012.722 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0012.728 (0) Table pop_options: Total expected rows (approximate): 576
+0012.895 (0) Table pop_options: Total rows added: 584 in 0.17 seconds
+0012.898 (0) Table pop_options: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_options.table.gz - 500.7 KB)
+0012.900 (0) Table pop_users: Total expected rows (approximate): 0
+0012.902 (0) Table pop_users: Total rows added: 1 in 0.00 seconds
+0012.902 (0) Table pop_users: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_users.table.gz - 0.6 KB)
+0012.905 (0) Table pop_usermeta: Total expected rows (approximate): 35
+0012.907 (0) Table pop_usermeta: Total rows added: 41 in 0.00 seconds
+0012.908 (0) Table pop_usermeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_usermeta.table.gz - 2.1 KB)
+0012.910 (0) Table pop_actionscheduler_actions: Total expected rows (approximate): 5
+0012.913 (0) Table pop_actionscheduler_actions: Total rows added: 5 in 0.00 seconds
+0012.914 (0) Table pop_actionscheduler_actions: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_actions.table.gz - 0.8 KB)
+0012.916 (0) Table pop_actionscheduler_claims: Total expected rows (approximate): 0
+0012.917 (0) Table pop_actionscheduler_claims: Total rows added: 0 in 0.00 seconds
+0012.918 (0) Table pop_actionscheduler_claims: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_claims.table.gz - 0.4 KB)
+0012.923 (0) Table pop_actionscheduler_groups: Total expected rows (approximate): 0
+0012.926 (0) Table pop_actionscheduler_groups: Total rows added: 1 in 0.00 seconds
+0012.927 (0) Table pop_actionscheduler_groups: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_groups.table.gz - 0.4 KB)
+0012.929 (0) Table pop_actionscheduler_logs: Total expected rows (approximate): 13
+0012.936 (0) Table pop_actionscheduler_logs: Total rows added: 15 in 0.01 seconds
+0012.936 (0) Table pop_actionscheduler_logs: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_logs.table.gz - 0.6 KB)
+0012.940 (0) Table pop_commentmeta: Total expected rows (approximate): 0
+0012.943 (0) Table pop_commentmeta: Total rows added: 0 in 0.00 seconds
+0012.944 (0) Table pop_commentmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_commentmeta.table.gz - 0.4 KB)
+0012.946 (0) Table pop_comments: Total expected rows (approximate): 1
+0012.949 (0) Table pop_comments: Total rows added: 1 in 0.00 seconds
+0012.950 (0) Table pop_comments: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_comments.table.gz - 0.7 KB)
+0012.952 (0) Table pop_links: Total expected rows (approximate): 0
+0012.955 (0) Table pop_links: Total rows added: 0 in 0.00 seconds
+0012.956 (0) Table pop_links: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_links.table.gz - 0.4 KB)
+0012.959 (0) Table pop_postmeta: Total expected rows (approximate): 2497
+0013.013 (0) Table pop_postmeta: Total rows added: 2660 in 0.05 seconds
+0013.015 (0) Table pop_postmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_postmeta.table.gz - 48 KB)
+0013.017 (0) Table pop_posts: Total expected rows (approximate): 186
+0013.031 (0) Table pop_posts: Total rows added: 196 in 0.01 seconds
+0013.033 (0) Table pop_posts: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_posts.table.gz - 17.1 KB)
+0013.036 (0) Table pop_term_relationships: Total expected rows (approximate): 76
+0013.040 (0) Table pop_term_relationships: Total rows added: 104 in 0.00 seconds
+0013.040 (0) Table pop_term_relationships: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_term_relationships.table.gz - 0.7 KB)
+0013.043 (0) Table pop_term_taxonomy: Total expected rows (approximate): 28
+0013.046 (0) Table pop_term_taxonomy: Total rows added: 34 in 0.00 seconds
+0013.047 (0) Table pop_term_taxonomy: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_term_taxonomy.table.gz - 0.8 KB)
+0013.049 (0) Table pop_termmeta: Total expected rows (approximate): 12
+0013.052 (0) Table pop_termmeta: Total rows added: 13 in 0.00 seconds
+0013.053 (0) Table pop_termmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_termmeta.table.gz - 0.5 KB)
+0013.055 (0) Table pop_terms: Total expected rows (approximate): 28
+0013.059 (0) Table pop_terms: Total rows added: 34 in 0.00 seconds
+0013.060 (0) Table pop_terms: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_terms.table.gz - 0.8 KB)
+0013.063 (0) Table pop_wc_category_lookup: Total expected rows (approximate): 0
+0013.067 (0) Table pop_wc_category_lookup: Total rows added: 1 in 0.00 seconds
+0013.067 (0) Table pop_wc_category_lookup: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_category_lookup.table.gz - 0.3 KB)
+0013.072 (0) Table pop_wc_product_meta_lookup: Total expected rows (approximate): 5
+0013.076 (0) Table pop_wc_product_meta_lookup: Total rows added: 7 in 0.00 seconds
+0013.077 (0) Table pop_wc_product_meta_lookup: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_product_meta_lookup.table.gz - 0.6 KB)
+0013.079 (0) Table pop_wc_tax_rate_classes: Total expected rows (approximate): 2
+0013.082 (0) Table pop_wc_tax_rate_classes: Total rows added: 2 in 0.00 seconds
+0013.083 (0) Table pop_wc_tax_rate_classes: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_tax_rate_classes.table.gz - 0.4 KB)
+0013.087 (0) Table pop_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0013.091 (0) Table pop_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0013.091 (0) Table pop_woocommerce_order_itemmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0013.094 (0) Table pop_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0013.100 (0) Table pop_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.01 seconds
+0013.100 (0) Table pop_woocommerce_payment_tokenmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0013.105 (0) Table pop_jet_smart_filters_indexer: Total expected rows (approximate): 0
+0013.108 (0) Table pop_jet_smart_filters_indexer: Total rows added: 0 in 0.00 seconds
+0013.108 (0) Table pop_jet_smart_filters_indexer: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_jet_smart_filters_indexer.table.gz - 0.3 KB)
+0013.111 (0) Table pop_learnpress_order_itemmeta: Total expected rows (approximate): 4
+0013.115 (0) Table pop_learnpress_order_itemmeta: Total rows added: 4 in 0.00 seconds
+0013.115 (0) Table pop_learnpress_order_itemmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_order_itemmeta.table.gz - 0.4 KB)
+0013.118 (0) Table pop_learnpress_order_items: Total expected rows (approximate): 0
+0013.121 (0) Table pop_learnpress_order_items: Total rows added: 1 in 0.00 seconds
+0013.121 (0) Table pop_learnpress_order_items: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_order_items.table.gz - 0.4 KB)
+0013.125 (0) Table pop_learnpress_question_answermeta: Total expected rows (approximate): 0
+0013.128 (0) Table pop_learnpress_question_answermeta: Total rows added: 0 in 0.00 seconds
+0013.128 (0) Table pop_learnpress_question_answermeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_question_answermeta.table.gz - 0.4 KB)
+0013.131 (0) Table pop_learnpress_question_answers: Total expected rows (approximate): 0
+0013.134 (0) Table pop_learnpress_question_answers: Total rows added: 0 in 0.00 seconds
+0013.134 (0) Table pop_learnpress_question_answers: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_question_answers.table.gz - 0.3 KB)
+0013.137 (0) Table pop_learnpress_quiz_questions: Total expected rows (approximate): 0
+0013.139 (0) Table pop_learnpress_quiz_questions: Total rows added: 0 in 0.00 seconds
+0013.140 (0) Table pop_learnpress_quiz_questions: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_quiz_questions.table.gz - 0.3 KB)
+0013.143 (0) Table pop_learnpress_review_logs: Total expected rows (approximate): 5
+0013.146 (0) Table pop_learnpress_review_logs: Total rows added: 7 in 0.00 seconds
+0013.146 (0) Table pop_learnpress_review_logs: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_review_logs.table.gz - 0.6 KB)
+0013.149 (0) Table pop_learnpress_section_items: Total expected rows (approximate): 16
+0013.152 (0) Table pop_learnpress_section_items: Total rows added: 16 in 0.00 seconds
+0013.153 (0) Table pop_learnpress_section_items: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_section_items.table.gz - 0.5 KB)
+0013.156 (0) Table pop_learnpress_sections: Total expected rows (approximate): 5
+0013.159 (0) Table pop_learnpress_sections: Total rows added: 5 in 0.00 seconds
+0013.159 (0) Table pop_learnpress_sections: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_sections.table.gz - 0.4 KB)
+0013.162 (0) Table pop_learnpress_sessions: Total expected rows (approximate): 2
+0013.165 (0) Table pop_learnpress_sessions: Total rows added: 4 in 0.00 seconds
+0013.166 (0) Table pop_learnpress_sessions: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_sessions.table.gz - 0.7 KB)
+0013.168 (0) Table pop_learnpress_user_itemmeta: Total expected rows (approximate): 5
+0013.172 (0) Table pop_learnpress_user_itemmeta: Total rows added: 5 in 0.00 seconds
+0013.173 (0) Table pop_learnpress_user_itemmeta: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_user_itemmeta.table.gz - 0.5 KB)
+0013.175 (0) Table pop_learnpress_user_items: Total expected rows (approximate): 0
+0013.179 (0) Table pop_learnpress_user_items: Total rows added: 1 in 0.00 seconds
+0013.180 (0) Table pop_learnpress_user_items: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_user_items.table.gz - 0.5 KB)
+0013.182 (0) Table pop_podsrel: Total expected rows (approximate): 0
+0013.185 (0) Table pop_podsrel: Total rows added: 0 in 0.00 seconds
+0013.186 (0) Table pop_podsrel: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_podsrel.table.gz - 0.4 KB)
+0013.189 (0) Table pop_um_metadata: Total expected rows (approximate): 0
+0013.191 (0) Table pop_um_metadata: Total rows added: 0 in 0.00 seconds
+0013.192 (0) Table pop_um_metadata: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_um_metadata.table.gz - 0.4 KB)
+0013.195 (0) Table pop_wc_admin_note_actions: Total expected rows (approximate): 4
+0013.198 (0) Table pop_wc_admin_note_actions: Total rows added: 4 in 0.00 seconds
+0013.199 (0) Table pop_wc_admin_note_actions: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_admin_note_actions.table.gz - 0.6 KB)
+0013.201 (0) Table pop_wc_admin_notes: Total expected rows (approximate): 4
+0013.205 (0) Table pop_wc_admin_notes: Total rows added: 4 in 0.00 seconds
+0013.205 (0) Table pop_wc_admin_notes: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_admin_notes.table.gz - 1 KB)
+0013.208 (0) Table pop_wc_customer_lookup: Total expected rows (approximate): 0
+0013.211 (0) Table pop_wc_customer_lookup: Total rows added: 0 in 0.00 seconds
+0013.211 (0) Table pop_wc_customer_lookup: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_customer_lookup.table.gz - 0.5 KB)
+0013.214 (0) Table pop_wc_download_log: Total expected rows (approximate): 0
+0013.217 (0) Table pop_wc_download_log: Total rows added: 0 in 0.00 seconds
+0013.217 (0) Table pop_wc_download_log: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_download_log.table.gz - 0.4 KB)
+0013.220 (0) Table pop_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0013.224 (0) Table pop_wc_order_coupon_lookup: Total rows added: 0 in 0.00 seconds
+0013.225 (0) Table pop_wc_order_coupon_lookup: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0013.227 (0) Table pop_wc_order_product_lookup: Total expected rows (approximate): 0
+0013.230 (0) Table pop_wc_order_product_lookup: Total rows added: 0 in 0.00 seconds
+0013.231 (0) Table pop_wc_order_product_lookup: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_product_lookup.table.gz - 0.4 KB)
+0013.233 (0) Table pop_wc_order_stats: Total expected rows (approximate): 0
+0013.236 (0) Table pop_wc_order_stats: Total rows added: 0 in 0.00 seconds
+0013.237 (0) Table pop_wc_order_stats: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_stats.table.gz - 0.5 KB)
+0013.240 (0) Table pop_wc_order_tax_lookup: Total expected rows (approximate): 0
+0013.243 (0) Table pop_wc_order_tax_lookup: Total rows added: 0 in 0.00 seconds
+0013.243 (0) Table pop_wc_order_tax_lookup: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_tax_lookup.table.gz - 0.4 KB)
+0013.246 (0) Table pop_wc_webhooks: Total expected rows (approximate): 0
+0013.249 (0) Table pop_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0013.250 (0) Table pop_wc_webhooks: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_webhooks.table.gz - 0.5 KB)
+0013.252 (0) Table pop_woocommerce_api_keys: Total expected rows (approximate): 0
+0013.255 (0) Table pop_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0013.256 (0) Table pop_woocommerce_api_keys: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_api_keys.table.gz - 0.4 KB)
+0013.259 (0) Table pop_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0013.261 (0) Table pop_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0013.262 (0) Table pop_woocommerce_attribute_taxonomies: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0013.264 (0) Table pop_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0013.267 (0) Table pop_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0013.268 (0) Table pop_woocommerce_downloadable_product_permissions: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0013.271 (0) Table pop_woocommerce_log: Total expected rows (approximate): 0
+0013.274 (0) Table pop_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0013.274 (0) Table pop_woocommerce_log: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_log.table.gz - 0.4 KB)
+0013.277 (0) Table pop_woocommerce_order_items: Total expected rows (approximate): 0
+0013.280 (0) Table pop_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0013.280 (0) Table pop_woocommerce_order_items: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_order_items.table.gz - 0.4 KB)
+0013.283 (0) Table pop_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0013.286 (0) Table pop_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0013.286 (0) Table pop_woocommerce_payment_tokens: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0013.289 (0) Table pop_woocommerce_sessions: Total expected rows (approximate): 0
+0013.292 (0) Table pop_woocommerce_sessions: Total rows added: 2 in 0.00 seconds
+0013.293 (0) Table pop_woocommerce_sessions: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_sessions.table.gz - 1.3 KB)
+0013.296 (0) Table pop_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0013.298 (0) Table pop_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0013.299 (0) Table pop_woocommerce_shipping_zone_locations: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0013.301 (0) Table pop_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0013.304 (0) Table pop_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0013.305 (0) Table pop_woocommerce_shipping_zone_methods: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0013.308 (0) Table pop_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0013.311 (0) Table pop_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0013.311 (0) Table pop_woocommerce_shipping_zones: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0013.314 (0) Table pop_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0013.317 (0) Table pop_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0013.318 (0) Table pop_woocommerce_tax_rate_locations: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0013.322 (0) Table pop_woocommerce_tax_rates: Total expected rows (approximate): 0
+0013.324 (0) Table pop_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0013.325 (0) Table pop_woocommerce_tax_rates: finishing file (backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_tax_rates.table.gz - 0.4 KB)
+0013.327 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_options.table.gz (1/56): adding to final database dump
+0013.440 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_users.table.gz (2/56): adding to final database dump
+0013.441 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_usermeta.table.gz (3/56): adding to final database dump
+0013.442 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_actions.table.gz (4/56): adding to final database dump
+0013.443 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_claims.table.gz (5/56): adding to final database dump
+0013.443 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_groups.table.gz (6/56): adding to final database dump
+0013.444 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_actionscheduler_logs.table.gz (7/56): adding to final database dump
+0013.444 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_commentmeta.table.gz (8/56): adding to final database dump
+0013.445 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_comments.table.gz (9/56): adding to final database dump
+0013.445 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_links.table.gz (10/56): adding to final database dump
+0013.446 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_postmeta.table.gz (11/56): adding to final database dump
+0013.459 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_posts.table.gz (12/56): adding to final database dump
+0013.463 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_term_relationships.table.gz (13/56): adding to final database dump
+0013.464 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_term_taxonomy.table.gz (14/56): adding to final database dump
+0013.464 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_termmeta.table.gz (15/56): adding to final database dump
+0013.465 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_terms.table.gz (16/56): adding to final database dump
+0013.465 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_category_lookup.table.gz (17/56): adding to final database dump
+0013.466 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_product_meta_lookup.table.gz (18/56): adding to final database dump
+0013.466 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_tax_rate_classes.table.gz (19/56): adding to final database dump
+0013.467 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_order_itemmeta.table.gz (20/56): adding to final database dump
+0013.467 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_payment_tokenmeta.table.gz (21/56): adding to final database dump
+0013.468 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_jet_smart_filters_indexer.table.gz (22/56): adding to final database dump
+0013.468 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_order_itemmeta.table.gz (23/56): adding to final database dump
+0013.469 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_order_items.table.gz (24/56): adding to final database dump
+0013.469 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_question_answermeta.table.gz (25/56): adding to final database dump
+0013.470 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_question_answers.table.gz (26/56): adding to final database dump
+0013.470 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_quiz_questions.table.gz (27/56): adding to final database dump
+0013.471 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_review_logs.table.gz (28/56): adding to final database dump
+0013.471 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_section_items.table.gz (29/56): adding to final database dump
+0013.472 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_sections.table.gz (30/56): adding to final database dump
+0013.472 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_sessions.table.gz (31/56): adding to final database dump
+0013.473 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_user_itemmeta.table.gz (32/56): adding to final database dump
+0013.473 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_learnpress_user_items.table.gz (33/56): adding to final database dump
+0013.473 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_podsrel.table.gz (34/56): adding to final database dump
+0013.474 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_um_metadata.table.gz (35/56): adding to final database dump
+0013.474 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_admin_note_actions.table.gz (36/56): adding to final database dump
+0013.475 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_admin_notes.table.gz (37/56): adding to final database dump
+0013.476 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_customer_lookup.table.gz (38/56): adding to final database dump
+0013.476 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_download_log.table.gz (39/56): adding to final database dump
+0013.476 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_coupon_lookup.table.gz (40/56): adding to final database dump
+0013.477 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_product_lookup.table.gz (41/56): adding to final database dump
+0013.477 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_stats.table.gz (42/56): adding to final database dump
+0013.478 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_order_tax_lookup.table.gz (43/56): adding to final database dump
+0013.478 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_wc_webhooks.table.gz (44/56): adding to final database dump
+0013.479 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_api_keys.table.gz (45/56): adding to final database dump
+0013.479 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_attribute_taxonomies.table.gz (46/56): adding to final database dump
+0013.480 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_downloadable_product_permissions.table.gz (47/56): adding to final database dump
+0013.480 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_log.table.gz (48/56): adding to final database dump
+0013.481 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_order_items.table.gz (49/56): adding to final database dump
+0013.481 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_payment_tokens.table.gz (50/56): adding to final database dump
+0013.482 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_sessions.table.gz (51/56): adding to final database dump
+0013.482 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_shipping_zone_locations.table.gz (52/56): adding to final database dump
+0013.483 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_shipping_zone_methods.table.gz (53/56): adding to final database dump
+0013.483 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_shipping_zones.table.gz (54/56): adding to final database dump
+0013.484 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_tax_rate_locations.table.gz (55/56): adding to final database dump
+0013.484 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db-table-pop_woocommerce_tax_rates.table.gz (56/56): adding to final database dump
+0013.486 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db.gz: finished writing out complete database file (552 KB)
+0013.497 (0) Total database tables backed up: 56 (backup_2020-04-18-1344_Hareef_e5811688a22b-db.gz, size: 590857, sha1: e5eba4a091ab628a8167a09efc1e9afc82d1ac14, sha256: 7cdc7126af81f4d5eaed83e5580f6b6d152801e5b2a636c5db2303298ad3846c)
+0013.501 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0013.502 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0013.502 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0013.502 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0013.503 (0) backup_2020-04-18-1344_Hareef_e5811688a22b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0013.503 (0) Saving backup history. Total backup size: 71.3 MB
+0013.505 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0013.507 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0013.507 (0) No remote despatch: user chose no remote backup service
+0013.508 (0) Recording as successfully uploaded: backup_2020-04-18-1344_Hareef_e5811688a22b-plugins.zip
+0013.509 (0) Recording as successfully uploaded: backup_2020-04-18-1344_Hareef_e5811688a22b-themes.zip
+0013.510 (0) Recording as successfully uploaded: backup_2020-04-18-1344_Hareef_e5811688a22b-uploads.zip
+0013.511 (0) Recording as successfully uploaded: backup_2020-04-18-1344_Hareef_e5811688a22b-others.zip
+0013.512 (0) Recording as successfully uploaded: backup_2020-04-18-1344_Hareef_e5811688a22b-db.gz
+0013.516 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0013.516 (0) Number of backup sets in history: 1; groups (db): 1
+0013.517 (0) Examining (for databases) backup set with group_id=0, nonce=e5811688a22b, datestamp=1587217463 (Apr 18 2020 13:44:23)
+0013.517 (0) This backup set is the backup set just made, so will not be deleted.
+0013.517 (0) Number of backup sets in history: 1; groups (files): 1
+0013.518 (0) Examining (for files) backup set with nonce=e5811688a22b, datestamp=1587217463 (Apr 18 2020 13:44:23)
+0013.518 (0) This backup set is the backup set just made, so will not be deleted.
+0013.518 (0) This backup set is the backup set just made, so will not be deleted.
+0013.518 (0) This backup set is the backup set just made, so will not be deleted.
+0013.518 (0) This backup set is the backup set just made, so will not be deleted.
+0013.518 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0013.519 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0013.520 (0) Resume backup (e5811688a22b, 0): finish run
+0013.521 (0) Decremented the semaphore (fd) by 1
+0013.522 (0) Semaphore (fd) unlocked
+0013.522 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0013.525 (0) No email will/can be sent - the user has not configured an email address.
+0013.526 (0) The backup apparently succeeded and is now complete
